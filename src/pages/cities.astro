@@ -1,0 +1,49 @@
+---
+import Base from '../layouts/Base.astro';
+import Avatars from '../components/Avatars.astro';
+import Sticker from '../components/Sticker.astro';
+import PhotoCredit from '../components/PhotoCredit.astro';
+import { cities, people, cityPeople, cityUrl, nameList } from '../lib/data';
+---
+
+<Base title="Cities">
+  <div class="page">
+    <header class="cities-head">
+      <h1 class="display">{cities.length} cities, all from people who’ve been.</h1>
+      <Sticker class="cities-sticker" />
+    </header>
+
+    <ul class="city-grid">
+      {
+        cities.map((c) => {
+          const who = cityPeople(c);
+          return (
+            <li>
+              <a class="city-card" href={cityUrl(c)}>
+                <div class="city-card-photo">
+                  {c.photo ? (
+                    <img src={c.photo.url} alt="" loading="lazy" referrerpolicy="no-referrer" />
+                  ) : (
+                    <span class="photo-empty">{c.name[0]}</span>
+                  )}
+                  {c.photo && <PhotoCredit photo={c.photo} link={false} />}
+                  <span class="tag">
+                    {c.spots.length} spot{c.spots.length === 1 ? '' : 's'}
+                  </span>
+                </div>
+                <div class="city-card-name">
+                  <h2>{c.name}</h2>
+                  {c.flag && <span class="flag" title={c.country}>{c.flag}</span>}
+                </div>
+                <div class="city-card-who">
+                  <Avatars ids={who} max={3} size="sm" />
+                  <span>{nameList(who.map((id) => people[id].name))}</span>
+                </div>
+              </a>
+            </li>
+          );
+        })
+      }
+    </ul>
+  </div>
+</Base>

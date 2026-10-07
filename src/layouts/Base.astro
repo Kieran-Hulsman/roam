@@ -1,0 +1,61 @@
+---
+import '../styles/global.css';
+import Search from '../components/Search.astro';
+
+interface Props {
+  title?: string;
+}
+const { title } = Astro.props;
+const path = Astro.url.pathname;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700;9..144,900&family=Instrument+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>{title ? `${title} · Roam` : 'Roam · travel advice from people you’d actually trust'}</title>
+  </head>
+  <body>
+    <!--
+      Recolours map tiles: greyscale, then a straight line through two points so Positron's
+      water (luminance ≈ .85) lands on pale blue #B9C6F2 and its land (≈ .98) on paper #F2F0E8.
+      Darker greys (labels, borders) fall towards deep blue.
+    -->
+    <svg width="0" height="0" style="position: absolute" aria-hidden="true">
+      <filter id="roam-tint" color-interpolation-filters="sRGB">
+        <feColorMatrix type="saturate" values="0"></feColorMatrix>
+        <feComponentTransfer>
+          <feFuncR type="linear" slope="1.706" intercept="-0.723"></feFuncR>
+          <feFuncG type="linear" slope="1.257" intercept="-0.291"></feFuncG>
+          <feFuncB type="linear" slope="-0.299" intercept="1.203"></feFuncB>
+        </feComponentTransfer>
+      </filter>
+    </svg>
+
+    <header class="site-header">
+      <a class="brand" href="/">Roam</a>
+      <nav>
+        <a href="/" aria-current={path === '/' ? 'page' : undefined}>Map</a>
+        <a href="/cities" aria-current={path.startsWith('/cit') ? 'page' : undefined}>Cities</a>
+      </nav>
+      <Search />
+    </header>
+    <main>
+      <slot />
+    </main>
+
+    <script>
+      // Windows has no flag emoji; this swaps in a tiny flag font there and does nothing elsewhere.
+      import { polyfillCountryFlagEmojis } from 'country-flag-emoji-polyfill';
+      polyfillCountryFlagEmojis();
+    </script>
+  </body>
+</html>

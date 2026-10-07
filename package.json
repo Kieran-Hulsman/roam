@@ -1,0 +1,21 @@
+{
+  "name": "roam",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "data:fetch": "node --env-file-if-exists=.env scripts/fetch.mjs",
+    "data:process": "node --env-file-if-exists=.env scripts/process.mjs",
+    "data:sync": "npm run data:fetch && npm run data:process"
+  },
+  "dependencies": {
+    "astro": "^5.18.2",
+    "country-flag-emoji-polyfill": "^0.1.10",
+    "csv-parse": "^7.0.3",
+    "fuse.js": "^7.5.0",
+    "leaflet": "^1.9.4"
+  }
+}

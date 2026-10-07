@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.astro/
+.env
+# These contain respondents' email addresses — keep them local.
+data/raw/
+data/people.json
+data/review.md
+.design/

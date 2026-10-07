@@ -1,0 +1,233 @@
+---
+import Base from '../../layouts/Base.astro';
+import Avatars from '../../components/Avatars.astro';
+import Sticker from '../../components/Sticker.astro';
+import PhotoCredit from '../../components/PhotoCredit.astro';
+import { cities, people, cityPeople, cityUrl, averageRating, cityAverage, citiesFor, nameList, type City } from '../../lib/data';
+
+export function getStaticPaths() {
+  return cities.map((city) => ({ params: { slug: city.slug }, props: { city } }));
+}
+
+const { city } = Astro.props as { city: City };
+const who = cityPeople(city);
+const avg = cityAverage(city);
+const pins = city.spots
+  .map((s, i) => ({ id: s.id, n: i + 1, name: s.name, lat: s.lat, lng: s.lng }))
+  .filter((p) => p.lat != null);
+const shortAddress = (a: string | null) => a?.split(',')[0] ?? null;
+const named = who.slice(0, 4).map((id) => people[id].name);
+---
+
+<Base title={city.name}>
+  <div class="page city-page">
+    <section class="city-hero">
+      <div class="city-hero-text">
+        <a class="back" href="/cities">← All cities</a>
+        <p class="meta">
+          City guide · {city.spots.length} spot{city.spots.length === 1 ? '' : 's'} · {who.length}
+          {who.length === 1 ? ' person' : ' people'}
+        </p>
+        <h1 class="display city-title">
+          {city.name}
+          {city.flag && <span class="flag" title={city.country}>{city.flag}</span>}
+        </h1>
+        <p class="lead">Where people you’d trust actually go.</p>
+        <div class="city-who">
+          <Avatars ids={who} max={4} />
+          <span>
+            <b>{named.join(', ')}</b>
+            {who.length > named.length && ` and ${who.length - named.length} more`}
+          </span>
+        </div>
+      </div>
+      {
+        city.photo && (
+          <figure class="city-hero-photo">
+            <img src={city.photo.url} alt={city.name} referrerpolicy="no-referrer" />
+            {avg != null && <span class="tag tag-corner">avg {avg} / 10</span>}
+            <PhotoCredit photo={city.photo} />
+            <Sticker class="hero-sticker" />
+          </figure>
+        )
+      }
+    </section>
+
+    <div class="city-layout">
+      <section class="thread">
+        <div class="thread-head">
+          <h2 class="display">The thread</h2>
+          <span>Most loved first</span>
+        </div>
+        <ol class="spot-list">
+          {
+            city.spots.map((s, i) => {
+              const rating = averageRating(s);
+              const ids = s.recommenders.map((r) => r.personId);
+              const notes = s.recommenders.filter((r) => r.note);
+              return (
+                <li class="spot" id={s.id}>
+                  <div class="spot-from">
+                    <Avatars ids={ids} max={3} size="sm" />
+                    <span>
+                      {s.recommenders.map((r, k) => (
+                        <>
+                          {k > 0 && (k === s.recommenders.length - 1 ? ' & ' : ', ')}
+                          <button class="person-link" popovertarget={`person-${r.personId}`}>
+                            {people[r.personId].name}
+                            {people[r.personId].flag && ` ${people[r.personId].flag}`}
+                          </button>
+                        </>
+                      ))}
+                    </span>
+                    <span class="muted">{ids.length > 1 ? 'all shared this' : 'shared a spot'}</span>
+                  </div>
+                  <div class="bubble">
+                    <button class="bubble-num" data-pin={s.id} disabled={s.lat == null} aria-label={`Show ${s.name} on the map`}>
+                      {i + 1}
+                    </button>
+                    <figure class:list={['bubble-photo', { empty: !s.photo }]}>
+                      {s.photo ? (
+                        <>
+                          <img src={s.photo.url} alt={s.name} loading="lazy" referrerpolicy="no-referrer" />
+                          <PhotoCredit photo={s.photo} />
+                        </>
+                      ) : (
+                        <span aria-hidden="true">{s.name[0]}</span>
+                      )}
+                    </figure>
+                    <div class="bubble-body">
+                      <h3>{s.name}</h3>
+                      {(s.type || s.address) && <p class="bubble-meta">{[s.type, shortAddress(s.address)].filter(Boolean).join(' · ')}</p>}
+                      {notes.map((r) => (
+                        <q>
+                          {r.note}
+                          {notes.length > 1 && <cite> — {people[r.personId].name}</cite>}
+                        </q>
+                      ))}
+                      {s.googleMapsUrl && (
+                        <div class="map-links">
+                          <a class="pill pill-sm" href={s.googleMapsUrl} target="_blank" rel="noopener">
+                            Google Maps ↗
+                          </a>
+                          <a class="pill pill-sm" href={s.appleMapsUrl} target="_blank" rel="noopener">
+                            Apple Maps ↗
+                          </a>
+                        </div>
+                      )}
+                    </div>
+                    <div class="bubble-rating">
+                      {rating != null ? (
+                        <>
+                          <strong>{rating}</strong>
+                          <span>out of 10</span>
+                        </>
+                      ) : (
+                        <span class="tag tag-tint">unrated</span>
+                      )}
+                    </div>
+                  </div>
+                </li>
+              );
+            })
+          }
+        </ol>
+      </section>
+
+      <aside class="city-map-wrap">
+        <div class="city-map-card">
+          <div class="city-map" id="city-map" data-pins={JSON.stringify(pins)} data-center={JSON.stringify([city.lat, city.lng])}></div>
+        </div>
+        <p class="map-hint">Tap a pin to jump to the spot.</p>
+      </aside>
+    </div>
+
+    {
+      who.map((id) => {
+        const p = people[id];
+        const elsewhere = citiesFor(id).filter((c) => c.slug !== city.slug);
+        return (
+          <div class="person-popover" id={`person-${id}`} popover>
+            <button class="close" popovertarget={`person-${id}`} popovertargetaction="hide" aria-label="Close">
+              ×
+            </button>
+            <h3 class="display">
+              {p.name} {p.flag && <span class="flag">{p.flag}</span>}
+            </h3>
+            <p class="bio">{p.bio ?? 'No bio yet.'}</p>
+            {elsewhere.length > 0 && (
+              <p class="elsewhere">
+                Also recommends{' '}
+                {elsewhere.map((c, i) => (
+                  <>
+                    {i > 0 && ', '}
+                    <a href={cityUrl(c)}>
+                      {c.name}
+                      {c.flag && ` ${c.flag}`}
+                    </a>
+                  </>
+                ))}
+              </p>
+            )}
+          </div>
+        );
+      })
+    }
+  </div>
+</Base>
+
+<script>
+  import L from 'leaflet';
+  import 'leaflet/dist/leaflet.css';
+  import { addBasemap, pinIcon } from '../../lib/basemap';
+
+  type Pin = { id: string; n: number; name: string; lat: number; lng: number };
+  const el = document.getElementById('city-map')!;
+  const pins: Pin[] = JSON.parse(el.dataset.pins!);
+  const center: [number, number] = JSON.parse(el.dataset.center!);
+
+  const map = L.map(el, { zoomControl: false }).setView(center, 12);
+  L.control.zoom({ position: 'bottomright' }).addTo(map);
+  addBasemap(map);
+
+  const markers = new Map<string, L.Marker>();
+  for (const p of pins) {
+    const m = L.marker([p.lat, p.lng], { icon: pinIcon({ size: 32, label: p.n }), title: p.name, zIndexOffset: (pins.length - p.n) * 10 })
+      .addTo(map)
+      .bindTooltip(p.name, { direction: 'right', className: 'pin-tag' });
+    m.on('click', () => highlight(p.id, true));
+    markers.set(p.id, m);
+  }
+
+  // Frame the spots in town; day trips (Mono, Landmannalaugar…) still get pins but don't zoom the map out.
+  const local = pins.filter((p) => map.distance(center, [p.lat, p.lng]) < 30_000);
+  const framed = local.length ? local : pins;
+  if (framed.length > 1) map.fitBounds(L.latLngBounds(framed.map((p) => [p.lat, p.lng])), { padding: [50, 50], maxZoom: 15 });
+  else if (framed.length === 1) map.setView([framed[0].lat, framed[0].lng], 14);
+
+  let active: string | null = null;
+  function highlight(id: string, scroll: boolean) {
+    document.querySelectorAll('.spot.active').forEach((s) => s.classList.remove('active'));
+    if (active) markers.get(active)?.getElement()?.classList.remove('is-active');
+    active = id;
+    const card = document.getElementById(id);
+    card?.classList.add('active');
+    if (scroll) card?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    const m = markers.get(id);
+    if (m) {
+      m.getElement()?.classList.add('is-active');
+      map.setView(m.getLatLng(), Math.max(map.getZoom(), 14), { animate: true });
+      m.openTooltip();
+    }
+  }
+
+  document.querySelectorAll<HTMLButtonElement>('[data-pin]').forEach((b) => b.addEventListener('click', () => highlight(b.dataset.pin!, false)));
+
+  // Arriving from search with #spot-id
+  const fromHash = () => {
+    const id = decodeURIComponent(location.hash.slice(1));
+    if (id && document.getElementById(id)) highlight(id, true);
+  };
+  fromHash();
+  window.addEventListener('hashchange', fromHash);
+</script>

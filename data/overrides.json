@@ -1,0 +1,126 @@
+{
+  "cityAliases": {
+    "toronto": "Toronto, Canada",
+    "waterloo": "Waterloo, Canada",
+    "san francisco": "San Francisco, USA",
+    "copenhagen, danemark": "Copenhagen, Denmark",
+    "cupertino, usa (/ bay area)": "Cupertino, USA",
+    "lake atitlan, guatemala": "Lake Atitlán, Guatemala",
+    "st.catherines, canada": "St. Catharines, Canada",
+    "medellin, colombia": "Medellín, Colombia",
+    "reykjavik, iceland": "Reykjavík, Iceland"
+  },
+  "cities": {},
+  "entries": {
+    "3ff8bded-1-1": {
+      "textOnly": true,
+      "name": "A locals-only hiking spot in the Alps",
+      "note": "beautiful spot between Switzerland, Italy, and Austria"
+    },
+    "3ff8bded-1-2": {
+      "textOnly": true,
+      "name": "Day hikes around the region",
+      "note": "lots of day hikes in that region, and a cow festival"
+    },
+    "3ff8bded-1-3": {
+      "textOnly": true,
+      "name": "Hiking in summer, skiing in winter",
+      "note": null
+    },
+    "3ff8bded-2-1": {
+      "textOnly": true,
+      "name": "The rainforest",
+      "note": "rainforest vibes, waterfalls, birds, hummingbirds"
+    },
+    "3ff8bded-2-2": {
+      "textOnly": true,
+      "name": "Venezuelan food",
+      "note": "fire venezuelan food"
+    },
+    "3ff8bded-3-1": {
+      "textOnly": true,
+      "name": "An eco lodge hostel",
+      "note": "don't remember the name, but it's an eco lodge and has great hikes nearby"
+    },
+    "3ff8bded-3-2": {
+      "textOnly": true,
+      "name": "Heads up: stray dogs",
+      "note": "lots of stray dogs that sit on roofs and bark at you while you pass"
+    },
+    "8e427202-1-2": {
+      "textOnly": true,
+      "name": "A pub on King St at lunchtime",
+      "note": "pub on king during lunch time 😛"
+    },
+    "cc93bb8f-2-2": {
+      "skip": true,
+      "_why": "\"Giann\" in a blank-city column, looks like a truncated duplicate of Gianni's Gelato"
+    },
+    "cc93bb8f-3-2": {
+      "city": "St. Catharines, Canada",
+      "acceptMatch": true,
+      "_why": "city 3 left blank; Beechwood Doughnuts is in St. Catharines",
+      "note": null
+    },
+    "b6fc5473-2-2": {
+      "city": "Osaka, Japan",
+      "_why": "Hoshida Park is in Osaka prefecture"
+    },
+    "b6fc5473-3-1": {
+      "city": "Osaka, Japan",
+      "_why": "city 3 left blank; Minoh Park is in Osaka prefecture"
+    },
+    "b6fc5473-3-3": {
+      "city": "Osaka, Japan",
+      "_why": "city 3 left blank; Nagai Botanical Garden is in Osaka"
+    },
+    "fc773fcf-1-1": {
+      "city": "Jardín, Colombia",
+      "acceptMatch": true,
+      "_why": "Jardín is coffee country; the auto-move picked a Medellín tour"
+    },
+    "fc773fcf-3-2": {
+      "city": "Medellín, Colombia",
+      "query": "Provenza, El Poblado, Medellín",
+      "name": "Provenza",
+      "acceptMatch": true,
+      "_why": "Provenza is the nightlife area in El Poblado, Medellín; typed under Koyasan",
+      "note": null
+    },
+    "2c312df5-3-2": {
+      "city": "Toronto, Canada",
+      "_why": "typed under Tokyo; Alforat Shawarma is in Toronto",
+      "acceptMatch": true,
+      "note": null
+    },
+    "a0e0762a-1-1": {
+      "acceptMatch": true,
+      "_why": "Saint Isidore Park = Parque de San Isidro"
+    },
+    "e8f1a5ba-2-1": {
+      "acceptFar": true,
+      "_why": "Carmel-by-the-Sea, part of their Bay Area pick"
+    },
+    "2df847de-1-2": {
+      "acceptFar": true,
+      "_why": "The Soup Company is in Vík, a day trip from Reykjavík"
+    },
+    "2df847de-1-3": {
+      "acceptFar": true,
+      "_why": "Landmannalaugar is in the highlands, a day trip from Reykjavík"
+    },
+    "09b91036-1-3": {
+      "acceptMatch": true,
+      "_why": "recommending the area itself"
+    },
+    "09b91036-2-1": {
+      "query": "Mono, Ontario",
+      "name": "Mono",
+      "acceptFar": true,
+      "acceptMatch": true,
+      "note": null,
+      "_why": "the town of Mono, Ontario (Dufferin County), a day trip from Toronto, not Mono Art Studio",
+      "city": "Toronto, Canada"
+    }
+  }
+}

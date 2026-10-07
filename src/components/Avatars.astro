@@ -1,0 +1,17 @@
+---
+// Overlapping initial circles for the people behind a city or spot.
+import { people, initial } from '../lib/data';
+
+interface Props {
+  ids: string[];
+  max?: number;
+  size?: 'sm' | 'md';
+}
+const { ids, max = 4, size = 'md' } = Astro.props;
+const shown = ids.slice(0, max);
+---
+
+<span class:list={['avatars', `avatars-${size}`]} aria-hidden="true">
+  {shown.map((id) => <span class="avatar">{initial(people[id].name)}</span>)}
+  {ids.length > max && <span class="avatar avatar-more">+{ids.length - max}</span>}
+</span>

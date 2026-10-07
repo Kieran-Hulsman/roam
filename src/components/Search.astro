@@ -1,0 +1,90 @@
+---
+// Type a city (or a spot) and jump to its page. Fuzzy, so "tornto" still works.
+---
+
+<div class="search" data-search>
+  <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+  <input type="search" placeholder="Search a city or spot" aria-label="Search cities and spots" autocomplete="off" />
+  <kbd>/</kbd>
+  <ul class="search-results" role="listbox" hidden></ul>
+</div>
+
+<script>
+  import Fuse from 'fuse.js';
+  import { cities } from '../lib/data';
+
+  type Item = { label: string; sub: string; url: string; kind: 'city' | 'spot'; country: string };
+
+  const items: Item[] = cities.flatMap((c) => [
+    { kind: 'city' as const, label: c.name, sub: `${c.flag ?? c.country} · ${c.spots.length} spot${c.spots.length === 1 ? '' : 's'}`, url: `/city/${c.slug}`, country: c.country },
+    ...c.spots.map((s) => ({ kind: 'spot' as const, label: s.name, sub: `${c.name} ${c.flag ?? ''}`, url: `/city/${c.slug}#${s.id}`, country: c.country })),
+  ]);
+
+  const fuse = new Fuse(items, {
+    keys: [
+      { name: 'label', weight: 3 },
+      { name: 'sub', weight: 1 },
+      { name: 'country', weight: 1 },
+    ],
+    threshold: 0.35,
+    ignoreLocation: true,
+  });
+
+  for (const root of document.querySelectorAll<HTMLElement>('[data-search]')) {
+    const input = root.querySelector('input')!;
+    const list = root.querySelector('ul')!;
+    let results: Item[] = [];
+    let active = 0;
+
+    const render = () => {
+      list.hidden = results.length === 0;
+      list.innerHTML = results
+        .map(
+          (r, i) => `<li role="option" aria-selected="${i === active}">
+            <a href="${r.url}"><span class="kind kind-${r.kind}">${r.kind}</span>
+            <span class="label">${escapeHtml(r.label)}</span><span class="sub">${escapeHtml(r.sub)}</span></a></li>`,
+        )
+        .join('');
+    };
+
+    input.addEventListener('input', () => {
+      const q = input.value.trim();
+      // Cities first: that's what people are usually looking for.
+      results = q ? fuse.search(q, { limit: 12 }).map((r) => r.item).sort((a, b) => (a.kind === b.kind ? 0 : a.kind === 'city' ? -1 : 1)).slice(0, 8) : [];
+      active = 0;
+      render();
+    });
+
+    input.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+        e.preventDefault();
+        if (!results.length) return;
+        active = (active + (e.key === 'ArrowDown' ? 1 : -1) + results.length) % results.length;
+        render();
+      } else if (e.key === 'Enter' && results[active]) {
+        window.location.href = results[active].url;
+      } else if (e.key === 'Escape') {
+        input.value = '';
+        results = [];
+        render();
+      }
+    });
+
+    document.addEventListener('click', (e) => {
+      if (!root.contains(e.target as Node)) list.hidden = true;
+    });
+    input.addEventListener('focus', () => render());
+    // "/" anywhere jumps to search
+    document.addEventListener('keydown', (e) => {
+      const t = e.target as HTMLElement;
+      if (e.key === '/' && !t.closest('input, textarea, [contenteditable]')) {
+        e.preventDefault();
+        input.focus();
+      }
+    });
+  }
+
+  function escapeHtml(s: string) {
+    return s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!);
+  }
+</script>

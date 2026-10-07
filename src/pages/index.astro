@@ -1,0 +1,79 @@
+---
+import Base from '../layouts/Base.astro';
+import Sticker from '../components/Sticker.astro';
+import { cities, people, cityPeople } from '../lib/data';
+
+const markers = cities.map((c) => ({
+  name: c.name,
+  flag: c.flag,
+  lat: c.lat,
+  lng: c.lng,
+  count: c.spots.length,
+  people: cityPeople(c).length,
+  photo: c.photo?.url ?? null,
+  url: `/city/${c.slug}`,
+}));
+const spotCount = cities.reduce((n, c) => n + c.spots.length, 0);
+---
+
+<Base>
+  <section class="home">
+    <div class="home-map-frame">
+      <div class="home-map" id="world-map" data-markers={JSON.stringify(markers)}></div>
+      <Sticker class="home-sticker" />
+    </div>
+    <div class="home-hero">
+      <h1 class="wordmark">Roam</h1>
+      <div class="home-pitch">
+        <p>Travel advice from people you’d actually trust.</p>
+        <div class="home-cta">
+          <a class="pill pill-solid" href="/cities">Browse {cities.length} cities →</a>
+          <span>{spotCount} spots · {Object.keys(people).length} people</span>
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>
+
+<script>
+  import L from 'leaflet';
+  import 'leaflet/dist/leaflet.css';
+  import { addBasemap, pinIcon } from '../lib/basemap';
+
+  type M = { name: string; flag: string | null; lat: number; lng: number; count: number; people: number; photo: string | null; url: string };
+  const el = document.getElementById('world-map')!;
+  const markers: M[] = JSON.parse(el.dataset.markers!);
+  const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
+
+  const map = L.map(el, { worldCopyJump: true, zoomControl: false, minZoom: 1 }).setView([30, 0], 2);
+  L.control.zoom({ position: 'bottomright' }).addTo(map);
+  addBasemap(map);
+
+  // Always-on name tags for the bigger cities, skipping any that would crowd a tag already placed.
+  const tagged: M[] = [];
+  for (const m of [...markers].sort((a, b) => b.count - a.count)) {
+    if (m.count < 4) break;
+    if (tagged.every((t) => map.distance([t.lat, t.lng], [m.lat, m.lng]) > 1_200_000)) tagged.push(m);
+  }
+
+  for (const m of markers) {
+    const size = 26 + Math.min(m.count, 20);
+    const title = `${esc(m.name)}${m.flag ? ` ${m.flag}` : ''}`;
+    L.marker([m.lat, m.lng], { icon: pinIcon({ size, label: m.count }), title: m.name, zIndexOffset: m.count * 10 })
+      .addTo(map)
+      .bindTooltip(title, { direction: 'right', className: 'pin-tag', permanent: tagged.includes(m) })
+      .bindPopup(
+        `<a class="city-pop" href="${m.url}">
+          ${m.photo ? `<img src="${m.photo}" alt="" referrerpolicy="no-referrer" />` : ''}
+          <strong>${title}</strong>
+          <span>${m.count} spot${m.count === 1 ? '' : 's'} from ${m.people} ${m.people === 1 ? 'person' : 'people'}</span>
+          <em>Open the city →</em>
+        </a>`,
+        { className: 'bubble-popup', closeButton: false, maxWidth: 260, minWidth: 240 },
+      );
+  }
+
+  if (markers.length) {
+    map.fitBounds(L.latLngBounds(markers.map((m) => [m.lat, m.lng])), { padding: [70, 70], maxZoom: 4 });
+  }
+</script>

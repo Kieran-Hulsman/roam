@@ -1,0 +1,3383 @@
+{
+  "search": {
+    "Kitchener, Canada": {
+      "placeId": "ChIJBVHuA4z0K4gRS1Rf3-b4JZU",
+      "name": "Kitchener",
+      "address": "Kitchener, ON, Canada",
+      "lat": 43.4510934,
+      "lng": -80.4925804,
+      "googleMapsUri": "https://maps.google.com/?cid=10747269756263289931&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Retro Rollers, Kitchener, Canada @43.45,-80.49": {
+      "placeId": "ChIJHeccUjb1K4gR4KXUdOSIIIY",
+      "name": "Retro Rollers Roller Rink",
+      "address": "563 Highland Rd W, Kitchener, ON N2M 5K2, Canada",
+      "lat": 43.4342044,
+      "lng": -80.5166363,
+      "googleMapsUri": "https://maps.google.com/?cid=9664875315131098592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "sports_complex",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Sports Complex"
+    },
+    "The Guanaquita Restaurant, Kitchener, Canada @43.45,-80.49": {
+      "placeId": "ChIJx2wKovT0K4gRdEggxsFB7T8",
+      "name": "The Guanaquita Restaurant",
+      "address": "273 King St W 2nd Floor, Kitchener, ON N2G 1B9, Canada",
+      "lat": 43.4514776,
+      "lng": -80.4942117,
+      "googleMapsUri": "https://maps.google.com/?cid=4606410294378383476&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "vegan_restaurant",
+        "vegetarian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Restaurant"
+    },
+    "KW Escape, Kitchener, Canada @43.45,-80.49": {
+      "placeId": "ChIJ3callozzK4gRscbcTK_F2F4",
+      "name": "KW Escape",
+      "address": "259 Gage Ave #1, Kitchener, ON N2M 2C9, Canada",
+      "lat": 43.44702,
+      "lng": -80.5171699,
+      "googleMapsUri": "https://maps.google.com/?cid=6834429791234213553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "amusement_center",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Amusement Center"
+    },
+    "Toronto, Canada": {
+      "placeId": "ChIJpTvG15DL1IkRd8S0KlBVNTI",
+      "name": "Toronto",
+      "address": "Toronto, ON, Canada",
+      "lat": 43.6548253,
+      "lng": -79.388447,
+      "googleMapsUri": "https://maps.google.com/?cid=3617891678464296055&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "EWOWDAY DIY Workshop, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJ3-nE3_rN1IkRL7LCGCO7hWI",
+      "name": "EWOWDAY - Lifestyle & DIY Workshop",
+      "address": "269 Danforth Ave, Toronto, ON M4K 1N2, Canada",
+      "lat": 43.676875700000004,
+      "lng": -79.35462299999999,
+      "googleMapsUri": "https://maps.google.com/?cid=7099286147033117231&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "art_studio",
+        "gift_shop",
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Art Studio"
+    },
+    "Fifth Note, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJq3onVLs1K4gR4yn1DeyLBfU",
+      "name": "Fifth Note",
+      "address": "567 King St W Upper, Toronto, ON M5V 1M1, Canada",
+      "lat": 43.6443887,
+      "lng": -79.3994032,
+      "googleMapsUri": "https://maps.google.com/?cid=17655671760138611171&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Clothing Store"
+    },
+    "Comal y Canela, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJu780VSMxK4gRRqfzYFKV2X4",
+      "name": "Comal y Canela",
+      "address": "1692B Jane St, York, ON M9N 2S4, Canada",
+      "lat": 43.703294299999996,
+      "lng": -79.5041372,
+      "googleMapsUri": "https://maps.google.com/?cid=9140501099771569990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "mexican_restaurant",
+        "latin_american_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "typeLabel": "Mexican Restaurant"
+    },
+    "Porto, Portugal": {
+      "placeId": "ChIJwVPhxKtlJA0RvBSxQFbZSKY",
+      "name": "Porto",
+      "address": "Porto, Portugal",
+      "lat": 41.1579438,
+      "lng": -8.629105299999999,
+      "googleMapsUri": "https://maps.google.com/?cid=11982065773094966460&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Vila Nova de Gaia Gondola, Porto, Portugal @41.16,-8.63": {
+      "placeId": "ChIJPQfHdSBlJA0RXjOuZuKlkXg",
+      "name": "Gaia cable car - Cais de Gaia station",
+      "address": "Av. de Ramos Pinto 331, 4430-233 Vila Nova de Gaia, Portugal",
+      "lat": 41.13733750000001,
+      "lng": -8.6162122,
+      "googleMapsUri": "https://maps.google.com/?cid=8687907547978281822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": null
+    },
+    "Base Porto, Porto, Portugal @41.16,-8.63": {
+      "placeId": "ChIJNViaYOJkJA0R_mOhG3VsNak",
+      "name": "Base Porto",
+      "address": "Quiosque Jardim, Passeio dos Clérigos, R. das Carmelitas 151, 4050-163 Porto, Portugal",
+      "lat": 41.146153999999996,
+      "lng": -8.6148515,
+      "googleMapsUri": "https://maps.google.com/?cid=12192770816406021118&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Bar"
+    },
+    "Manteigaria, Porto, Portugal @41.16,-8.63": {
+      "placeId": "ChIJEZ6T3_5lJA0RK-OYoZM1awA",
+      "name": "Manteigaria",
+      "address": "Rua dos Clérigos nº37, 4050-205 Porto, Portugal",
+      "lat": 41.1458333,
+      "lng": -8.6129704,
+      "googleMapsUri": "https://maps.google.com/?cid=30176730695656235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "pastry_shop",
+        "dessert_shop",
+        "bakery",
+        "confectionery",
+        "food_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Pastry Shop"
+    },
+    "Waterloo, Canada": {
+      "placeId": "ChIJK2f-X1bxK4gRkB0jxyh7AwU",
+      "name": "Waterloo",
+      "address": "Waterloo, ON, Canada",
+      "lat": 43.4819752,
+      "lng": -80.5261203,
+      "googleMapsUri": "https://maps.google.com/?cid=361267810189647248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Kingfisher pond, Waterloo, Canada @43.48,-80.53": {
+      "placeId": "ChIJReWOPQD3K4gRIyWzcmWlE9g",
+      "name": "Kingfisher Pond",
+      "address": "641 Columbia Forest Blvd, Waterloo, ON N2V 2K7, Canada",
+      "lat": 43.463419099999996,
+      "lng": -80.58519419999999,
+      "googleMapsUri": "https://maps.google.com/?cid=15569970191884559651&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "hiking_area",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Hiking Area"
+    },
+    "Calgary, Canada": {
+      "placeId": "ChIJ1T-EnwNwcVMROrZStrE7bSY",
+      "name": "Calgary",
+      "address": "Calgary, AB, Canada",
+      "lat": 51.044733099999995,
+      "lng": -114.0718831,
+      "googleMapsUri": "https://maps.google.com/?cid=2768934980356847162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Quietish ridge with nice view of Calgary skyline: 2564 Toronto Crescent NW, Calgary, AB T2N 3V9, Calgary, Canada @51.04,-114.07": {
+      "placeId": "ChIJHfF8w7BvcVMR_StpnckVJAI",
+      "name": "Crescent View Point",
+      "address": "2564 Toronto Crescent NW, Calgary, AB T2N 3V9, Canada",
+      "lat": 51.059758599999995,
+      "lng": -114.1205826,
+      "googleMapsUri": "https://maps.google.com/?cid=154272242910964733&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "observation_deck",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Observation Deck"
+    },
+    "$4 bahn mi downtown: Thai Thien Sub 811a 1 St SW, Calgary, AB T2P 7N2, Calgary, Canada @51.04,-114.07": {
+      "placeId": "ChIJpwScCv1vcVMRIyGXs2evBgM",
+      "name": "Thai Thien Sub",
+      "address": "811a 1 St SW, Calgary, AB T2P 7N2, Canada",
+      "lat": 51.0450381,
+      "lng": -114.0656721,
+      "googleMapsUri": "https://maps.google.com/?cid=218054491903566115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "vietnamese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Vietnamese Restaurant"
+    },
+    "Hidden (ish) bar with banger cheesecake: Missy's This That 348A 14 Ave SW, Calgary, AB T2R 0M3, Calgary, Canada @51.04,-114.07": {
+      "placeId": "ChIJXXPAy-BxcVMR_RqeGfAUQLM",
+      "name": "Missy's This That",
+      "address": "348A 14 Ave SW, Calgary, AB T2R 0M3, Canada",
+      "lat": 51.0399145,
+      "lng": -114.07120409999999,
+      "googleMapsUri": "https://maps.google.com/?cid=12916346752753081085&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Bar"
+    },
+    "Cupertino, USA": {
+      "placeId": "ChIJq3fTG1e0j4ARtHjho-E_TTk",
+      "name": "Cupertino",
+      "address": "Cupertino, CA, USA",
+      "lat": 37.322997799999996,
+      "lng": -122.03218229999999,
+      "googleMapsUri": "https://maps.google.com/?cid=4129026671718267060&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Chocolate Garden - The Xocolatl Garden. SW Of Dolores Next to Thomas Kinkade, 1768 Ocean Ave #4, Carmel-By-The-Sea, CA 93921, United States, Cupertino, USA @37.32,-122.03": {
+      "placeId": "ChIJf3BxxhLnjYARq0SCAel7-tI",
+      "name": "The Xocolatl Garden",
+      "address": "SW Of Dolores Next to Thomas Kinkade, 1768 Ocean Ave #4, Carmel-By-The-Sea, CA 93921, USA",
+      "lat": 36.55495,
+      "lng": -121.92305389999999,
+      "googleMapsUri": "https://maps.google.com/?cid=15202599732825441451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "chocolate_shop",
+        "dessert_shop",
+        "candy_store",
+        "confectionery",
+        "food_store",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "typeLabel": "Chocolate Shop"
+    },
+    "Chocolate Garden - The Xocolatl Garden. SW Of Dolores Next to Thomas Kinkade, 1768 Ocean Ave #4, Carmel-By-The-Sea, CA 93921, United States, Calgary, Canada @51.04,-114.07": {
+      "placeId": "ChIJf3BxxhLnjYARq0SCAel7-tI",
+      "name": "The Xocolatl Garden",
+      "address": "SW Of Dolores Next to Thomas Kinkade, 1768 Ocean Ave #4, Carmel-By-The-Sea, CA 93921, USA",
+      "lat": 36.55495,
+      "lng": -121.92305389999999,
+      "googleMapsUri": "https://maps.google.com/?cid=15202599732825441451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "chocolate_shop",
+        "candy_store",
+        "dessert_shop",
+        "confectionery",
+        "food_store",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "typeLabel": "Chocolate Shop"
+    },
+    "Swanton Berry Farm - 25 Swanton Rd, Davenport, CA 95017, United States, Cupertino, USA @37.32,-122.03": {
+      "placeId": "ChIJzzjKqP9ajoARlBtRFrPDKck",
+      "name": "Swanton Berry Farm",
+      "address": "25 Swanton Rd, Davenport, CA 95017, USA",
+      "lat": 37.0302966,
+      "lng": -122.2187938,
+      "googleMapsUri": "https://maps.google.com/?cid=14495332049609628564&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "farm",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Farm"
+    },
+    "Cute coffee place - Bitter & Sweet. 20560 Town Center Ln, Cupertino, CA 95014, United States, Cupertino, USA @37.32,-122.03": {
+      "placeId": "ChIJEcZeeam1j4ARghq2dw5tUNE",
+      "name": "Bitter + Sweet",
+      "address": "20560 Town Center Ln, Cupertino, CA 95014, USA",
+      "lat": 37.3182355,
+      "lng": -122.03151099999998,
+      "googleMapsUri": "https://maps.google.com/?cid=15082675060969183874&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "cafe",
+        "coffee_shop",
+        "food_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Cafe"
+    },
+    "Copenhagen, Denmark": {
+      "placeId": "ChIJIz2AXDxTUkYRuGeU5t1-3QQ",
+      "name": "Copenhagen",
+      "address": "Copenhagen, Denmark",
+      "lat": 55.676096799999996,
+      "lng": 12.568337099999999,
+      "googleMapsUri": "https://maps.google.com/?cid=350575837526124472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Bastard Café, Copenhagen, Denmark @55.68,12.57": {
+      "placeId": "ChIJU3W3ZBFTUkYRR1sx91IE5FM",
+      "name": "Bastard Café",
+      "address": "Rådhusstræde 13, 1466 København, Denmark",
+      "lat": 55.6764665,
+      "lng": 12.574768599999999,
+      "googleMapsUri": "https://maps.google.com/?cid=6044961354219084615&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "cafe",
+        "family_restaurant",
+        "pub",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Cafe"
+    },
+    "Wasteland, Copenhagen, Denmark @55.68,12.57": {
+      "placeId": "ChIJA-bOKA5TUkYRIQrsmpPyOSI",
+      "name": "Wasteland",
+      "address": "Studiestræde 19, 1455 København, Denmark",
+      "lat": 55.6786234,
+      "lng": 12.5697494,
+      "googleMapsUri": "https://maps.google.com/?cid=2466268986735331873&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Clothing Store"
+    },
+    "Lausanne, Switzerland": {
+      "placeId": "ChIJ5aeJzT4pjEcRXu7iysk_F-s",
+      "name": "Lausanne",
+      "address": "Lausanne, Switzerland",
+      "lat": 46.5196535,
+      "lng": 6.6322734,
+      "googleMapsUri": "https://maps.google.com/?cid=16940078659302256222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Plage du pélican, Lausanne, Switzerland @46.52,6.63": {
+      "placeId": "ChIJ14HX414xjEcRyZyhrieWh9s",
+      "name": "Plage du Pélican",
+      "address": "Av. du Léman 54, 1025 Saint-Sulpice, Switzerland",
+      "lat": 46.5133395,
+      "lng": 6.5721859,
+      "googleMapsUri": "https://maps.google.com/?cid=15818777313339874505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Tourist Attraction"
+    },
+    "Mudac, Lausanne, Switzerland @46.52,6.63": {
+      "placeId": "ChIJFQ36WTEujEcRXlmhHrxE4zk",
+      "name": "MUDAC - Musée cantonal de design et d’arts appliqués contemporains",
+      "address": "Pl. de la Gare 17, 1003 Lausanne, Switzerland",
+      "lat": 46.5185343,
+      "lng": 6.6239140999999995,
+      "googleMapsUri": "https://maps.google.com/?cid=4171253254633642334&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "art_museum",
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Art museum"
+    },
+    "Horseshoe Tavern, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJ7XS3FNs0K4gRWU6Z5iAzsE0",
+      "name": "Horseshoe Tavern",
+      "address": "370 Queen St W, Toronto, ON M5V 2A2, Canada",
+      "lat": 43.6490702,
+      "lng": -79.3958951,
+      "googleMapsUri": "https://maps.google.com/?cid=5598030553222303321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "live_music_venue",
+        "bar",
+        "event_venue",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Live Music Venue"
+    },
+    "Rivoli, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJSXT5Ids0K4gRsDMq7GUdC44",
+      "name": "Rivoli Toronto",
+      "address": "334 Queen St W, Toronto, ON M5V 2A2, Canada",
+      "lat": 43.6492669,
+      "lng": -79.39489490000001,
+      "googleMapsUri": "https://maps.google.com/?cid=10235306901720675248&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "concert_hall",
+        "night_club",
+        "meal_takeaway",
+        "auditorium",
+        "sports_complex",
+        "live_music_venue",
+        "event_venue",
+        "bar",
+        "wholesaler",
+        "sports_activity_location",
+        "service",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "typeLabel": "Sports Complex"
+    },
+    "Fresca Pizza and Pasta, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJTes2ycE0K4gRZmcma93jfHs",
+      "name": "Fresca Pizza and Pasta",
+      "address": "302 College St, Toronto, ON M5T 1R9, Canada",
+      "lat": 43.657817699999995,
+      "lng": -79.4017248,
+      "googleMapsUri": "https://maps.google.com/?cid=8898237503902213990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "pizza_restaurant",
+        "italian_restaurant",
+        "european_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Pizza Restaurant"
+    },
+    "Princess Cafe, Waterloo, Canada @43.48,-80.53": {
+      "placeId": "ChIJ4aW0Iw30K4gRVeqPT0TEluw",
+      "name": "Princess Cafe",
+      "address": "46 King St N, Waterloo, ON N2J 2W8, Canada",
+      "lat": 43.466498699999995,
+      "lng": -80.5225789,
+      "googleMapsUri": "https://maps.google.com/?cid=17048029237129243221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "cafe",
+        "coffee_shop",
+        "food_store",
+        "store",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "typeLabel": "Cafe"
+    },
+    "Lost Vessel Vintage, Waterloo, Canada @43.48,-80.53": {
+      "placeId": "ChIJt5kftej1K4gRmWE8szi49a4",
+      "name": "Lost Vessel Vintage",
+      "address": "6 Princess St W, Waterloo, ON N2J 2X2, Canada",
+      "lat": 43.4668461,
+      "lng": -80.5233568,
+      "googleMapsUri": "https://maps.google.com/?cid=12607185285558329753&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Clothing Store"
+    },
+    "Morty's Pub, Waterloo, Canada @43.48,-80.53": {
+      "placeId": "ChIJyytyQ_TzK4gRJgfMbVSBg_A",
+      "name": "Morty's Pub",
+      "address": "272 King St N, Waterloo, ON N2J 2Y9, Canada",
+      "lat": 43.4777323,
+      "lng": -80.5250425,
+      "googleMapsUri": "https://maps.google.com/?cid=17330837990671124262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "pub",
+        "sports_bar",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Pub"
+    },
+    "New York, USA": {
+      "placeId": "ChIJOwg_06VPwokRYv534QaPC8g",
+      "name": "New York",
+      "address": "New York, NY, USA",
+      "lat": 40.7127753,
+      "lng": -74.0059728,
+      "googleMapsUri": "https://maps.google.com/?cid=14414772292044717666&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Brooklyn Bridge Park - Pier 1-5, New York, USA @40.71,-74.01": {
+      "placeId": "ChIJH5q1BzpawokR4ffTuJzssbQ",
+      "name": "Brooklyn Bridge Park - Pier 1",
+      "address": "2 Furman St, Brooklyn, NY 11201, USA",
+      "lat": 40.703044999999996,
+      "lng": -73.9956072,
+      "googleMapsUri": "https://maps.google.com/?cid=13020448155564767201&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Park"
+    },
+    "Cassidy's Pub, New York, USA @40.71,-74.01": {
+      "placeId": "ChIJuQeWi_lYwokRB0tWx-ZYzHI",
+      "name": "Cassidys Pub",
+      "address": "65 W 55th St, New York, NY 10019, USA",
+      "lat": 40.7627908,
+      "lng": -73.9771957,
+      "googleMapsUri": "https://maps.google.com/?cid=8272084363782802183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "pub",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Pub"
+    },
+    "an.mé, New York, USA @40.71,-74.01": {
+      "placeId": "ChIJKdN-A4JZwokRMa5YUK8FIp0",
+      "name": "an.mé /ahn-may/",
+      "address": "249 Bleecker St, New York, NY 10014, USA",
+      "lat": 40.7309935,
+      "lng": -74.0026872,
+      "googleMapsUri": "https://maps.google.com/?cid=11322618663688252977&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "gift_shop",
+        "toy_store",
+        "clothing_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "typeLabel": "Store"
+    },
+    "Madrid, Spain": {
+      "placeId": "ChIJgTwKgJcpQg0RaSKMYcHeNsQ",
+      "name": "Madrid",
+      "address": "Madrid, Spain",
+      "lat": 40.416727900000005,
+      "lng": -3.7032905,
+      "googleMapsUri": "https://maps.google.com/?cid=14138733002322879081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Parque de San Isidro, Madrid, Spain @40.42,-3.70": {
+      "placeId": "ChIJ5bY4x-gnQg0RMzA2yjRLxuw",
+      "name": "Saint Isidore Park",
+      "address": "P.º de la Ermita del Santo, 74, Carabanchel, 28019 Madrid, Spain",
+      "lat": 40.398011,
+      "lng": -3.7281916999999996,
+      "googleMapsUri": "https://maps.google.com/?cid=17061406928442634291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Park"
+    },
+    "99 Cheesecake, Madrid, Spain @40.42,-3.70": {
+      "placeId": "ChIJcT_mor0pQg0RC0MWgHs_D3g",
+      "name": "99 Cheesecake | Malasaña",
+      "address": "C. de Don Felipe, 4, Centro, 28004 Madrid, Spain",
+      "lat": 40.424533,
+      "lng": -3.702365,
+      "googleMapsUri": "https://maps.google.com/?cid=8651203208864482059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "pastry_shop",
+        "bakery",
+        "dessert_shop",
+        "confectionery",
+        "food_store",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "typeLabel": "Pastry Shop"
+    },
+    "Nuevo Kebab Hut Bar, Madrid, Spain @40.42,-3.70": {
+      "placeId": "ChIJKc19uuonQg0RhFy9TWeEfsw",
+      "name": "Nuevo Kebab Hut Bar-Restaurante",
+      "address": "C. del Camino Viejo de Leganés, 10, Carabanchel, 28019 Madrid, Spain",
+      "lat": 40.3925098,
+      "lng": -3.7240035000000002,
+      "googleMapsUri": "https://maps.google.com/?cid=14735360610023595140&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "kebab_shop",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "typeLabel": "Kebab Shop"
+    },
+    "Jardín, Colombia": {
+      "placeId": "ChIJgSE2JZ1TRo4RvD_RfcFG5eE",
+      "name": "Jardín",
+      "address": "Jardín, Antioquia, Colombia",
+      "lat": 5.5988131999999995,
+      "lng": -75.8198172,
+      "googleMapsUri": "https://maps.google.com/?cid=16277494225054023612&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Coffee Tour, Jardín, Colombia @5.60,-75.82": {
+      "placeId": "ChIJe9B7gC1SRo4R5hElCmUx3ZE",
+      "name": "Café del Jardín - Tour Cafetero",
+      "address": "Vereda San Bartolo, Jardín, Antioquia, Colombia",
+      "lat": 5.6296159999999995,
+      "lng": -75.8587711,
+      "googleMapsUri": "https://maps.google.com/?cid=10510611415384265190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "farmstay",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Farmstay"
+    },
+    "Cascada del Amor (Hike), Jardín, Colombia @5.60,-75.82": {
+      "placeId": "ChIJaS4LGV5TRo4REz-hLoHlxeo",
+      "name": "Cascada del Amor",
+      "address": "Jardín, Antioquia, Colombia",
+      "lat": 5.5894857,
+      "lng": -75.8129774,
+      "googleMapsUri": "https://maps.google.com/?cid=16917179918282997523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Tourist Attraction"
+    },
+    "Medellín, Colombia": {
+      "placeId": "ChIJBa0PuN8oRI4RVju1x_x8E0I",
+      "name": "Medellín",
+      "address": "Medellín, Medellin, Antioquia, Colombia",
+      "lat": 6.2476376,
+      "lng": -75.56581530000001,
+      "googleMapsUri": "https://maps.google.com/?cid=4761286656184892246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Paragliding (San Félix), Medellín, Colombia @6.25,-75.57": {
+      "placeId": "ChIJLY6h3FcvRI4R6f3NOGIsmv8",
+      "name": "Parapente San Felix",
+      "address": "de los milagros 50 mts después del estadero el Voladero Primera entrada a mano derecha, Medellín-San Pedro #kilometro 6, Bello, La Palma, Bello, Antioquia, Colombia",
+      "lat": 6.330060400000001,
+      "lng": -75.59873089999999,
+      "googleMapsUri": "https://maps.google.com/?cid=18418082426456505833&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "adventure_sports_center",
+        "sports_complex",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Adventure Sports Center"
+    },
+    "Okunoin Cemetery, Medellín, Colombia @6.25,-75.57": {
+      "placeId": "ChIJUWjAAuYoRI4R2MJWIhkYvLc",
+      "name": "Cementerio Museo San Pedro",
+      "address": "Cra. 51 #68-68, Aranjuez, Medellín, Aranjuez, Medellín, Antioquia, Colombia",
+      "lat": 6.265924999999999,
+      "lng": -75.5620268,
+      "googleMapsUri": "https://maps.google.com/?cid=13239483500791775960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "cemetery",
+        "history_museum",
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "typeLabel": "Cemetery"
+    },
+    "Koyasan, Japan": {
+      "placeId": "ChIJfZhw_WAnB2ARt77F1yK7kaI",
+      "name": "Koyasan",
+      "address": "Koyasan, Koya, Ito District, Wakayama 648-0211, Japan",
+      "lat": 34.2132003,
+      "lng": 135.5862663,
+      "googleMapsUri": "https://maps.google.com/?cid=11714349864090713783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Danjo Garan (Temple), Koyasan, Japan @34.21,135.59": {
+      "placeId": "ChIJ-TitDQ0nB2ARwgYPgu5bEes",
+      "name": "Kongobu-ji Danjo Garan (Elevated Precinct)",
+      "address": "152 Kōyasan, Koya, Ito District, Wakayama 648-0211, Japan",
+      "lat": 34.2134865,
+      "lng": 135.5799663,
+      "googleMapsUri": "https://maps.google.com/?cid=16938420753459513026&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "buddhist_temple",
+        "tourist_attraction",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Buddhist Temple"
+    },
+    "Provenza (Nightlife), Koyasan, Japan @34.21,135.59": {
+      "placeId": "ChIJbbXRwAonB2ARbm5NmWIaaqU",
+      "name": "Nyonin-do Hall",
+      "address": "709 Kōyasan, Koya, Ito District, Wakayama 648-0211, Japan",
+      "lat": 34.2199987,
+      "lng": 135.58091149999998,
+      "googleMapsUri": "https://maps.google.com/?cid=11919368374570544750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "buddhist_temple",
+        "tourist_attraction",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Buddhist Temple"
+    },
+    "Neo Coffee Bar King x Spadina, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJG01e4c01K4gR5inw-zuOYr4",
+      "name": "NEO COFFEE BAR KING X SPADINA",
+      "address": "61 Spadina Ave., Toronto, ON M5V 0T9, Canada",
+      "lat": 43.645033399999996,
+      "lng": -79.3944412,
+      "googleMapsUri": "https://maps.google.com/?cid=13718683803204987366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "typeLabel": "Coffee Shop"
+    },
+    "Gianni’s Gelato, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJaZ_sTcc1K4gRXb9TuSNRaHk",
+      "name": "Gianni's Gelato",
+      "address": "241 Queen St W, Toronto, ON M5V 1Z4, Canada",
+      "lat": 43.650253400000004,
+      "lng": -79.3885695,
+      "googleMapsUri": "https://maps.google.com/?cid=8748331490042167133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Restaurant"
+    },
+    "Sukhothai, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJQVnt_zHL1IkRdYL-W2oVBVc",
+      "name": "SukhoTHAI",
+      "address": "52 Wellington St E, Toronto, ON M5E 1C6, Canada",
+      "lat": 43.648555599999995,
+      "lng": -79.3746639,
+      "googleMapsUri": "https://maps.google.com/?cid=6270441602737406581&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "thai_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "typeLabel": "Thai Restaurant"
+    },
+    "St. Catharines, Canada": {
+      "placeId": "ChIJS1pqu1RQ04kRNygIbGNjdQM",
+      "name": "St. Catharines",
+      "address": "St. Catharines, ON, Canada",
+      "lat": 43.1599795,
+      "lng": -79.2470299,
+      "googleMapsUri": "https://maps.google.com/?cid=249214633054316599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Fat Rabbit, St. Catharines, Canada @43.16,-79.25": {
+      "placeId": "ChIJf98z1FNQ04kRtVeqMEfom0M",
+      "name": "Fat Rabbit",
+      "address": "34 Geneva St, St. Catharines, ON L2R 4M4, Canada",
+      "lat": 43.1615372,
+      "lng": -79.2398887,
+      "googleMapsUri": "https://maps.google.com/?cid=4871742814388115381&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Restaurant"
+    },
+    "Chocolates etc - Always the best, St. Catharines, Canada @43.16,-79.25": {
+      "placeId": "ChIJJ6T88qxR04kRKbqNN_4E_9Q",
+      "name": "Chocolates Etc - Always The Best",
+      "address": "100 Welland Ave, St. Catharines, ON L2R 2N1, Canada",
+      "lat": 43.163026699999996,
+      "lng": -79.2474117,
+      "googleMapsUri": "https://maps.google.com/?cid=15347991545002179113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "pastry_shop",
+        "coffee_shop",
+        "cafe",
+        "ice_cream_shop",
+        "bakery",
+        "dessert_shop",
+        "confectionery",
+        "food_store",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "typeLabel": "Food"
+    },
+    "Beechwood Donuts, St. Catharines, Canada @43.16,-79.25": {
+      "placeId": "ChIJG3o3SE1Q04kR8BGMqrRwY0Y",
+      "name": "Beechwood Doughnuts",
+      "address": "165 St Paul St, St. Catharines, ON L2R 3M5, Canada",
+      "lat": 43.1577923,
+      "lng": -79.24471059999999,
+      "googleMapsUri": "https://maps.google.com/?cid=5072021526607041008&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "donut_shop",
+        "bakery",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Donut Shop"
+    },
+    "Singapore, Singapore": {
+      "placeId": "ChIJdZOLiiMR2jERxPWrUs9peIg",
+      "name": "Singapore",
+      "address": "Singapore",
+      "lat": 1.352083,
+      "lng": 103.819836,
+      "googleMapsUri": "https://maps.google.com/?cid=9833726125529626052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "country",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Marina Bay Sands, Singapore, Singapore @1.35,103.82": {
+      "placeId": "ChIJA5LATO4Z2jER111V-v6abAI",
+      "name": "Marina Bay Sands Singapore",
+      "address": "10 Bayfront Ave, Singapore 018956",
+      "lat": 1.2837574999999999,
+      "lng": 103.8591065,
+      "googleMapsUri": "https://maps.google.com/?cid=174684905472875991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "hotel",
+        "tourist_attraction",
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Hotel"
+    },
+    "The Riverwalk, Singapore, Singapore @1.35,103.82": {
+      "placeId": "ChIJHywT8CgZ2jERtYLxa8fg7OY",
+      "name": "The Riverwalk",
+      "address": "Singapore, Upper Circular Rd, 20号, The Riverwalk, #01- 24A 邮政编码: 058416",
+      "lat": 1.2890484,
+      "lng": 103.8484279,
+      "googleMapsUri": "https://maps.google.com/?cid=16639921870341243573&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Shopping Mall"
+    },
+    "Pulau Ubin, Singapore, Singapore @1.35,103.82": {
+      "placeId": "ChIJYcYVP2I-2jERQTiBy40oT6w",
+      "name": "Pulau Ubin",
+      "address": "Pulau Ubin, Singapore",
+      "lat": 1.4125659,
+      "lng": 103.9577334,
+      "googleMapsUri": "https://maps.google.com/?cid=12416187287153489985&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "island",
+        "natural_feature",
+        "establishment"
+      ],
+      "typeLabel": "Island"
+    },
+    "Helvaci Ali, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJA8EQBfDT1IkR4rTNwgVwMGI",
+      "name": "Helvaci Ali - Turkish Dessert Cafe",
+      "address": "2066 Lawrence Ave E, Scarborough, ON M1R 2Z5, Canada",
+      "lat": 43.7459819,
+      "lng": -79.2939456,
+      "googleMapsUri": "https://maps.google.com/?cid=7075278184644457698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "cafe",
+        "turkish_restaurant",
+        "dessert_shop",
+        "confectionery",
+        "food_store",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Cafe"
+    },
+    "Centennial Park, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJQ3z0g0k4K4gRke6KYtxefDQ",
+      "name": "Centennial Park",
+      "address": "Centennial Park, Etobicoke, ON, Canada",
+      "lat": 43.654042100000005,
+      "lng": -79.58843689999999,
+      "googleMapsUri": "https://maps.google.com/?cid=3782002087723462289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "neighborhood",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Crown Pastries, Singapore, Singapore @1.35,103.82": {
+      "placeId": "ChIJEybIFQYa2jER8CtyHEQ06ko",
+      "name": "Crown Centre",
+      "address": "557 Bukit Timah Rd, Singapore 269694",
+      "lat": 1.3230606,
+      "lng": 103.8111746,
+      "googleMapsUri": "https://maps.google.com/?cid=5398184570496625648&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Shopping Mall"
+    },
+    "golden diner, New York, USA @40.71,-74.01": {
+      "placeId": "ChIJ1-mW-LhbwokR7Ryv5ha-gzc",
+      "name": "Golden Diner",
+      "address": "123 Madison St, New York, NY 10002, USA",
+      "lat": 40.712435899999996,
+      "lng": -73.99402669999999,
+      "googleMapsUri": "https://maps.google.com/?cid=4000249899603926253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "diner",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Diner"
+    },
+    "Pranakhon, New York, USA @40.71,-74.01": {
+      "placeId": "ChIJeWk_ncJZwokR1QHfApa0dQo",
+      "name": "Pranakhon",
+      "address": "88 University Pl, New York, NY 10003, USA",
+      "lat": 40.733751,
+      "lng": -73.9932623,
+      "googleMapsUri": "https://maps.google.com/?cid=753707069040689621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "thai_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Thai Restaurant"
+    },
+    "Eileen’s Cheesecake, New York, USA @40.71,-74.01": {
+      "placeId": "ChIJaeOQ3IhZwokRgxPZEE3noAM",
+      "name": "Eileen's Special Cheesecake",
+      "address": "17 Cleveland Pl, New York, NY 10012, USA",
+      "lat": 40.721568,
+      "lng": -73.99725819999999,
+      "googleMapsUri": "https://maps.google.com/?cid=261463096568648579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "bakery",
+        "dessert_restaurant",
+        "dessert_shop",
+        "confectionery",
+        "food_store",
+        "manufacturer",
+        "store",
+        "wholesaler",
+        "service",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "typeLabel": "Bakery"
+    },
+    "Bang Bang Ice Cream, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJ485SJvw0K4gR8lOHDGJuiUw",
+      "name": "Bang Bang Ice Cream & Bakery",
+      "address": "93A Ossington Ave, Toronto, ON M6J 0G1, Canada",
+      "lat": 43.6462759,
+      "lng": -79.4194492,
+      "googleMapsUri": "https://maps.google.com/?cid=5515060586087928818&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "ice_cream_shop",
+        "cafe",
+        "bakery",
+        "dessert_shop",
+        "confectionery",
+        "food_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Ice Cream Shop"
+    },
+    "400C Pizza Shinagawa, Toronto, Canada @43.65,-79.39": null,
+    "400C Pizza Shinagawa, New York, USA @40.71,-74.01": {
+      "placeId": "ChIJ2bhIj5qLGGARa4DOifusJKM",
+      "name": "400°C Pizza Shinagawa",
+      "address": "Japan, 〒108-0074 Tokyo, Minato City, Takanawa, 4-chōme−22−１１ Village高輪 1F",
+      "lat": 35.625813199999996,
+      "lng": 139.7372814,
+      "googleMapsUri": "https://maps.google.com/?cid=11755711123692617835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "pizza_restaurant",
+        "cafe",
+        "italian_restaurant",
+        "european_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Pizza Restaurant"
+    },
+    "Tokyo, Japan": {
+      "placeId": "ChIJ51cu8IcbXWARiRtXIothAS4",
+      "name": "Tokyo",
+      "address": "Tokyo, Japan",
+      "lat": 35.6764225,
+      "lng": 139.650027,
+      "googleMapsUri": "https://maps.google.com/?cid=3315038050925878153&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "400C Pizza Shinagawa, Tokyo, Japan @35.68,139.65": {
+      "placeId": "ChIJ2bhIj5qLGGARa4DOifusJKM",
+      "name": "400°C Pizza Shinagawa",
+      "address": "Japan, 〒108-0074 Tokyo, Minato City, Takanawa, 4-chōme−22−１１ Village高輪 1F",
+      "lat": 35.625813199999996,
+      "lng": 139.7372814,
+      "googleMapsUri": "https://maps.google.com/?cid=11755711123692617835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "pizza_restaurant",
+        "cafe",
+        "italian_restaurant",
+        "european_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "typeLabel": "Pizza Restaurant"
+    },
+    "Yakiniku Legend, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJf4gF2kQ1K4gRM4WV8Xwnw0k",
+      "name": "Yakiniku Legend",
+      "address": "35 McCaul St Unit 100, Toronto, ON M5T 1V7, Canada",
+      "lat": 43.651498,
+      "lng": -79.3898825,
+      "googleMapsUri": "https://maps.google.com/?cid=5315135402809853235&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "yakiniku_restaurant",
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Yakiniku Restaurant"
+    },
+    "Azaya, Tokyo, Japan @35.68,139.65": {
+      "placeId": "ChIJFzsEK6-NGGAR8Q5Tlnnql24",
+      "name": "AZAYA",
+      "address": "Japan, 〒171-0014 Tokyo, Toshima City, Ikebukuro, 2-chōme−35−３ 吉岡ビル 1F",
+      "lat": 35.7332623,
+      "lng": 139.7069348,
+      "googleMapsUri": "https://maps.google.com/?cid=7969095873589350129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "japanese_izakaya_restaurant",
+        "wine_bar",
+        "butcher_shop",
+        "seafood_restaurant",
+        "bar",
+        "manufacturer",
+        "food_store",
+        "japanese_restaurant",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "typeLabel": "Izakaya Restaurant"
+    },
+    "Alforat Shawarma, Tokyo, Japan @35.68,139.65": {
+      "placeId": "ChIJPyN9OHyNGGAR9tX-dyekCdU",
+      "name": "Baran Kebab",
+      "address": "キャッツビル 1f, 2-chōme-16-3 Dōgenzaka, Shibuya, Tokyo 150-0043, Japan",
+      "lat": 35.6587981,
+      "lng": 139.69717459999998,
+      "googleMapsUri": "https://maps.google.com/?cid=15350981294292915702&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "kebab_shop",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Kebab Shop"
+    },
+    "Yakitori Torikizoku - Shibuya, Tokyo, Japan @35.68,139.65": {
+      "placeId": "ChIJWR7FdqiMGGARmAUZYfv8hjE",
+      "name": "YAKITORI Torikizoku Shibuya Koen Dori Store",
+      "address": "Japan, 〒150-0041 Tokyo, Shibuya, Jinnan, 1-chōme−22−１０ 皆川ビル ６階",
+      "lat": 35.6614454,
+      "lng": 139.70107439999998,
+      "googleMapsUri": "https://maps.google.com/?cid=3568817911333717400&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "yakitori_restaurant",
+        "japanese_izakaya_restaurant",
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Yakitori Restaurant"
+    },
+    "Reykjavík, Iceland": {
+      "placeId": "ChIJw-3c7rl01kgRcWDSMKIskew",
+      "name": "Reykjavík",
+      "address": "Reykjavík, Iceland",
+      "lat": 64.1469868,
+      "lng": -21.940755199999998,
+      "googleMapsUri": "https://maps.google.com/?cid=17046455139689455729&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "kopar, Reykjavík, Iceland @64.15,-21.94": {
+      "placeId": "ChIJC9qenCwL1kgRRV9coEIVT_Q",
+      "name": "Kopar",
+      "address": "Geirsgata 3, 101 Reykjavík, Iceland",
+      "lat": 64.1511111,
+      "lng": -21.9438972,
+      "googleMapsUri": "https://maps.google.com/?cid=17604312844316991301&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "scandinavian_restaurant",
+        "european_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Scandinavian Restaurant"
+    },
+    "the soup company, Reykjavík, Iceland @64.15,-21.94": {
+      "placeId": "ChIJ7wlrRsx01kgR_D1l_VKIEuw",
+      "name": "Svarta Kaffið",
+      "address": "Laugavegur 54, 101 Reykjavík, Iceland",
+      "lat": 64.1444624,
+      "lng": -21.923465,
+      "googleMapsUri": "https://maps.google.com/?cid=17010808632551751164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "soup_restaurant",
+        "scandinavian_restaurant",
+        "european_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "typeLabel": "Scandinavian Restaurant"
+    },
+    "landmannalauger, Reykjavík, Iceland @64.15,-21.94": {
+      "placeId": "ChIJnxtTlMh01kgR6s5FGnZZ3xY",
+      "name": "Landmannalaugar Tours",
+      "address": "Laugavegur 170 174, 105 Reykjavík, Iceland",
+      "lat": 64.141808,
+      "lng": -21.9030994,
+      "googleMapsUri": "https://maps.google.com/?cid=1648134352422686442&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "travel_agency",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Travel Agency"
+    },
+    "Salzburg, Austria": {
+      "placeId": "ChIJsdQIqd2adkcRPfcqQaGD4cE",
+      "name": "Salzburg",
+      "address": "Salzburg, Austria",
+      "lat": 47.801415399999996,
+      "lng": 13.044844099999999,
+      "googleMapsUri": "https://maps.google.com/?cid=13970592247686297405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "heavy rotation bar, Salzburg, Austria @47.80,13.04": {
+      "placeId": "ChIJaxDNiYeQdkcRPnw97p9dvt8",
+      "name": "Heavy Rotation Musicstore & Bar",
+      "address": "Heavy Rotation, Glockengasse 6, 5020 Salzburg, Austria",
+      "lat": 47.8048699,
+      "lng": 13.051440399999999,
+      "googleMapsUri": "https://maps.google.com/?cid=16122426657511144510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "bar",
+        "clothing_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "typeLabel": "Bar"
+    },
+    "mozart memorial, Reykjavík, Iceland @64.15,-21.94": {
+      "placeId": "ChIJEffsfzIL1kgRtF9pBZ35YE8",
+      "name": "The Unknown Bureaucrat",
+      "address": "43W5+8V3, 101 Reykjavík, Iceland",
+      "lat": 64.1457677,
+      "lng": -21.9403386,
+      "googleMapsUri": "https://maps.google.com/?cid=5719845979556503476&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "sculpture",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Sculpture"
+    },
+    "Lisbon, Portugal": {
+      "placeId": "ChIJO_PkYRozGQ0R0DaQ5L3rAAQ",
+      "name": "Lisbon",
+      "address": "Lisbon, Portugal",
+      "lat": 38.722252399999995,
+      "lng": -9.1393366,
+      "googleMapsUri": "https://maps.google.com/?cid=288489576967714512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Restaurant: Zé da Mouraria 2, R. Gomes Freire 60, 1150-175 Lisboa, Portugal, Lisbon, Portugal @38.72,-9.14": {
+      "placeId": "ChIJvxs0WJszGQ0RRhSjFw18v98",
+      "name": "Zé da Mouraria 2",
+      "address": "R. Gomes Freire 60, 1150-175 Lisboa, Portugal",
+      "lat": 38.7244082,
+      "lng": -9.1399277,
+      "googleMapsUri": "https://maps.google.com/?cid=16122741586682647622&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "portuguese_restaurant",
+        "european_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Portuguese Restaurant"
+    },
+    "Park Necessidades Tapada das Necessidades, CC das Necessidades, Lisboa, Portugal, Lisbon, Portugal @38.72,-9.14": {
+      "placeId": "ChIJo-HlNaA0GQ0Rb5V7OppVuR0",
+      "name": "Park Necessidades",
+      "address": "CC das Necessidades, Lisboa, Portugal",
+      "lat": 38.7090051,
+      "lng": -9.169833299999999,
+      "googleMapsUri": "https://maps.google.com/?cid=2141837218685883759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Park"
+    },
+    "Restaurant: Casa de Pasto Oh Pereira, R. Arco do Cego 59, 1000-146 Lisboa, Portugal, Lisbon, Portugal @38.72,-9.14": {
+      "placeId": "ChIJ-YyF2KYzGQ0RU6LaxPHupPw",
+      "name": "Casa de Pasto Oh Pereira",
+      "address": "R. Arco do Cego 59, 1000-068 Lisboa, Portugal",
+      "lat": 38.739993999999996,
+      "lng": -9.1427982,
+      "googleMapsUri": "https://maps.google.com/?cid=18204938315895579219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "portuguese_restaurant",
+        "european_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Portuguese Restaurant"
+    },
+    "Montezuma, Costa Rica": {
+      "placeId": "ChIJ3-4mKyJln48RL_dIMz18gdI",
+      "name": "Montezuma",
+      "address": "Puntarenas Province, Montezuma, Costa Rica",
+      "lat": 9.6624691,
+      "lng": -85.07473879999999,
+      "googleMapsUri": "https://maps.google.com/?cid=15168541622255810351&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Soda Tipica Las Palmeras, Puntarenas Province, Santa Fe, Montezuma Beach, Costa Rica, Montezuma, Costa Rica @9.66,-85.07": {
+      "placeId": "ChIJH7RmpAZln48RDSdPZRjVzpk",
+      "name": "Soda Tipica Las Palmeras",
+      "address": "Puntarenas Province, Santa Fe, Montezuma Beach, Costa Rica",
+      "lat": 9.6484169,
+      "lng": -85.0713373,
+      "googleMapsUri": "https://maps.google.com/?cid=11083030033760986893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "typeLabel": "Restaurant"
+    },
+    "Parc Güell, Gràcia, 08024 Barcelona, Spain, Montezuma, Costa Rica @9.66,-85.07": {
+      "placeId": "ChIJq0HUUq6ipBIRWM6qGqALmok",
+      "name": "Park Güell",
+      "address": "Gràcia, 08024 Barcelona, Spain",
+      "lat": 41.4144948,
+      "lng": 2.1526945,
+      "googleMapsUri": "https://maps.google.com/?cid=9915250311879642712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Park"
+    },
+    "Parc Güell, Gràcia, 08024 Barcelona, Spain, Lisbon, Portugal @38.72,-9.14": {
+      "placeId": "ChIJq0HUUq6ipBIRWM6qGqALmok",
+      "name": "Park Güell",
+      "address": "Gràcia, 08024 Barcelona, Spain",
+      "lat": 41.4144948,
+      "lng": 2.1526945,
+      "googleMapsUri": "https://maps.google.com/?cid=9915250311879642712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Park"
+    },
+    "Barcelona, Spain": {
+      "placeId": "ChIJ5TCOcRaYpBIRCmZHTz37sEQ",
+      "name": "Barcelona",
+      "address": "Barcelona, Spain",
+      "lat": 41.387437399999996,
+      "lng": 2.1686495999999997,
+      "googleMapsUri": "https://maps.google.com/?cid=4949732231221831178&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Parc Güell, Gràcia, 08024 Barcelona, Spain, Barcelona, Spain @41.39,2.17": {
+      "placeId": "ChIJq0HUUq6ipBIRWM6qGqALmok",
+      "name": "Park Güell",
+      "address": "Gràcia, 08024 Barcelona, Spain",
+      "lat": 41.4144948,
+      "lng": 2.1526945,
+      "googleMapsUri": "https://maps.google.com/?cid=9915250311879642712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Park"
+    },
+    "Montezuma Beach Playa Montezuma, Tropisphere Office, Provincia de Puntarenas, Santa Fe, Playa Montezuma, Costa Rica, Montezuma, Costa Rica @9.66,-85.07": {
+      "placeId": "ChIJ-eWM2hxln48Rj2kcFpmEycc",
+      "name": "Montezuma Beach",
+      "address": "Tropisphere Office, Provincia de Puntarenas, Santa Fe, Playa Montezuma, Costa Rica",
+      "lat": 9.653840599999999,
+      "lng": -85.06817199999999,
+      "googleMapsUri": "https://maps.google.com/?cid=14396183476902324623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "tourist_attraction",
+        "visitor_center",
+        "tourist_information_center",
+        "tour_agency",
+        "travel_agency",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Tourist Attraction"
+    },
+    "Bobby's Free, Carrer de Pau Claris, 85, Eixample, 08010 Barcelona, Spain, Barcelona, Spain @41.39,2.17": {
+      "placeId": "ChIJ5xOF6fGipBIREVqhYxW5kKY",
+      "name": "Bobby's Free",
+      "address": "Carrer de Pau Claris, 85, Eixample, 08010 Barcelona, Spain",
+      "lat": 41.389853599999995,
+      "lng": 2.1706685,
+      "googleMapsUri": "https://maps.google.com/?cid=12002296508459342353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "cocktail_bar",
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Cocktail Bar"
+    },
+    "Montezuma Waterfalls Trailhead and Parking Lot Cataratas de Montezuma -sendero y estacionamiento, MW2J+755, Puntarenas Province, Santa Fe, Montezuma Beach, Costa Rica, Barcelona, Spain @41.39,2.17": {
+      "placeId": "ChIJP7HYym1ln48Rcm2dUrUKtEQ",
+      "name": "Montezuma Waterfalls Trailhead and Parking Lot",
+      "address": "MW2J+755, Puntarenas Province, Santa Fe, Montezuma Beach, Costa Rica",
+      "lat": 9.6506344,
+      "lng": -85.0695228,
+      "googleMapsUri": "https://maps.google.com/?cid=4950593664278424946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "hiking_area",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Hiking Area"
+    },
+    "Montezuma Waterfalls Trailhead and Parking Lot Cataratas de Montezuma -sendero y estacionamiento, MW2J+755, Puntarenas Province, Santa Fe, Montezuma Beach, Costa Rica, Lisbon, Portugal @38.72,-9.14": {
+      "placeId": "ChIJP7HYym1ln48Rcm2dUrUKtEQ",
+      "name": "Montezuma Waterfalls Trailhead and Parking Lot",
+      "address": "MW2J+755, Puntarenas Province, Santa Fe, Montezuma Beach, Costa Rica",
+      "lat": 9.6506344,
+      "lng": -85.0695228,
+      "googleMapsUri": "https://maps.google.com/?cid=4950593664278424946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "hiking_area",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Hiking Area"
+    },
+    "Montezuma Waterfalls Trailhead and Parking Lot Cataratas de Montezuma -sendero y estacionamiento, MW2J+755, Puntarenas Province, Santa Fe, Montezuma Beach, Costa Rica, Montezuma, Costa Rica @9.66,-85.07": {
+      "placeId": "ChIJP7HYym1ln48Rcm2dUrUKtEQ",
+      "name": "Montezuma Waterfalls Trailhead and Parking Lot",
+      "address": "MW2J+755, Puntarenas Province, Santa Fe, Montezuma Beach, Costa Rica",
+      "lat": 9.6506344,
+      "lng": -85.0695228,
+      "googleMapsUri": "https://maps.google.com/?cid=4950593664278424946&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "hiking_area",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Hiking Area"
+    },
+    "Museu Nacional d'Art de Catalunya, Palau Nacional, Parc de Montjuïc, s/n, Sants-Montjuïc, 08038 Barcelona, Spain, Barcelona, Spain @41.39,2.17": {
+      "placeId": "ChIJMU59xHGipBIRkdwlcgUWAYY",
+      "name": "Museu Nacional d'Art de Catalunya",
+      "address": "Palau Nacional, Parc de Montjuïc, s/n, Sants-Montjuïc, 08038 Barcelona, Spain",
+      "lat": 41.3684399,
+      "lng": 2.1535699999999998,
+      "googleMapsUri": "https://maps.google.com/?cid=9656023288704785553&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "art_museum",
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Art museum"
+    },
+    "Casa Loma, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJs6Elz500K4gRT1jWAsHIfGE",
+      "name": "Casa Loma",
+      "address": "1 Austin Terrace, Toronto, ON M5R 1X8, Canada",
+      "lat": 43.6780371,
+      "lng": -79.4094439,
+      "googleMapsUri": "https://maps.google.com/?cid=7024710250092976207&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "museum",
+        "historical_landmark",
+        "tourist_attraction",
+        "castle",
+        "historical_place",
+        "event_venue",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Museum"
+    },
+    "Edward Gardens, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJGXyiWUDN1IkR50ZWv092iYU",
+      "name": "Edwards Gardens",
+      "address": "755 Lawrence Ave E, North York, ON M3C 1P2, Canada",
+      "lat": 43.733803900000005,
+      "lng": -79.357924,
+      "googleMapsUri": "https://maps.google.com/?cid=9622352163738371815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "garden",
+        "tourist_attraction",
+        "botanical_garden",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Garden"
+    },
+    "Queen's Park, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJA0h1-Lk0K4gRzJsK5QP2H6g",
+      "name": "Queen’s Park",
+      "address": "111 Wellesley St W, Toronto, ON M7A 1A2, Canada",
+      "lat": 43.664327799999995,
+      "lng": -79.39231389999999,
+      "googleMapsUri": "https://maps.google.com/?cid=12114672019237936076&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Park"
+    },
+    "Kitchener-Waterloo Art Gallery, Waterloo, Canada @43.48,-80.53": {
+      "placeId": "ChIJUyT9Fx30K4gRtvojo_opXWg",
+      "name": "Kitchener-Waterloo Art Gallery",
+      "address": "101 Queen St N, Kitchener, ON N2H 6P7, Canada",
+      "lat": 43.454674999999995,
+      "lng": -80.4844222,
+      "googleMapsUri": "https://maps.google.com/?cid=7520213109234203318&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "art_gallery",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Art Gallery"
+    },
+    "coffee brick, Waterloo, Canada @43.48,-80.53": {
+      "placeId": "ChIJER45KPfzK4gRbi9W34BLGNs",
+      "name": "Coffee Brick Canada Inc.",
+      "address": "410 Conestogo Rd W #102, Waterloo, ON N2L 4E2, Canada",
+      "lat": 43.498121499999996,
+      "lng": -80.5336465,
+      "googleMapsUri": "https://maps.google.com/?cid=15787451510622138222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "typeLabel": "Coffee Shop"
+    },
+    "public kitchen & bar, Kitchener, Canada @43.45,-80.49": {
+      "placeId": "ChIJy3RstJ30K4gRZpzd_W37xP4",
+      "name": "PUBLIC Kitchen & Bar",
+      "address": "300 Victoria St N, Kitchener, ON N2H 6R7, Canada",
+      "lat": 43.458591,
+      "lng": -80.48410799999999,
+      "googleMapsUri": "https://maps.google.com/?cid=18358074430898150502&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Restaurant"
+    },
+    "Kyoto, Japan": {
+      "placeId": "ChIJ8cM8zdaoAWARPR27azYdlsA",
+      "name": "Kyoto",
+      "address": "Kyoto, Japan",
+      "lat": 35.011564,
+      "lng": 135.7681489,
+      "googleMapsUri": "https://maps.google.com/?cid=13877311421361626429&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Murin-an, Kyoto, Japan @35.01,135.77": {
+      "placeId": "ChIJ3Z3mk-AIAWARjvGotlykUek",
+      "name": "Murin-an Garden",
+      "address": "Japan, 〒606-8437 Kyoto, Sakyo Ward, Nanzenji Kusakawachō, 31番地",
+      "lat": 35.0116298,
+      "lng": 135.786946,
+      "googleMapsUri": "https://maps.google.com/?cid=16812399602059243918&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "garden",
+        "tourist_attraction",
+        "cultural_landmark",
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Garden"
+    },
+    "Shoden-ji, Kyoto, Japan @35.01,135.77": {
+      "placeId": "ChIJEbE262uoAWAR6Ls9QAVuqe0",
+      "name": "Shōden-ji Temple",
+      "address": "72 Nishigamo Kitachinjuancho, Kita Ward, Kyoto, 603-8847, Japan",
+      "lat": 35.062373699999995,
+      "lng": 135.7368914,
+      "googleMapsUri": "https://maps.google.com/?cid=17125340026884701160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "buddhist_temple",
+        "tourist_attraction",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Buddhist Temple"
+    },
+    "Enko-ji, Kyoto, Japan @35.01,135.77": {
+      "placeId": "ChIJb8ozQ6kJAWARcjQCEqTST-M",
+      "name": "Enkōji",
+      "address": "13 Ichijōji Kotanichō, Sakyo Ward, Kyoto, 606-8147, Japan",
+      "lat": 35.045091,
+      "lng": 135.797065,
+      "googleMapsUri": "https://maps.google.com/?cid=16379541971888387186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "buddhist_temple",
+        "tourist_attraction",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Buddhist Temple"
+    },
+    "Todoroki Valley, Tokyo, Japan @35.68,139.65": {
+      "placeId": "ChIJL1aj31b0GGAR5izpt9nJOS4",
+      "name": "Todoroki Valley",
+      "address": "1 Chome-22 Todoroki, Setagaya City, Tokyo 158-0091, Japan",
+      "lat": 35.605198699999995,
+      "lng": 139.6456467,
+      "googleMapsUri": "https://maps.google.com/?cid=3330915336347790566&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "scenic_spot",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Scenic Spot"
+    },
+    "Osaka, Japan": {
+      "placeId": "ChIJ4eIGNFXmAGAR5y9q5G7BW8U",
+      "name": "Osaka",
+      "address": "Osaka, Japan",
+      "lat": 34.6952474,
+      "lng": 135.5012079,
+      "googleMapsUri": "https://maps.google.com/?cid=14221172930375200743&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Hoshida park, Osaka, Japan @34.70,135.50": {
+      "placeId": "ChIJhY5E_7cYAWARePUhPo0oiAk",
+      "name": "Hoshida Park",
+      "address": "5019-1 Hoshida, Katano, Osaka 576-0011, Japan",
+      "lat": 34.7507744,
+      "lng": 135.6857624,
+      "googleMapsUri": "https://maps.google.com/?cid=686843530271913336&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Park"
+    },
+    "Yanaka Ginza, Tokyo, Japan @35.68,139.65": {
+      "placeId": "ChIJPYwFnNGNGGARYEeXwiYQPe8",
+      "name": "Yanaka Ginza",
+      "address": "3-chōme-13-1 Yanaka, Taito City, Tokyo 110-0001, Japan",
+      "lat": 35.7276965,
+      "lng": 139.7657226,
+      "googleMapsUri": "https://maps.google.com/?cid=17238952707303622496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "tourist_attraction",
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Tourist Attraction"
+    },
+    "Minoh park, Osaka, Japan @34.70,135.50": {
+      "placeId": "ChIJWycYzY35AGAR6rz9QCA7shE",
+      "name": "Minoh Park",
+      "address": "1-18 Minookōen, Minoh, Osaka 562-0002, Japan",
+      "lat": 34.847070599999995,
+      "lng": 135.4723464,
+      "googleMapsUri": "https://maps.google.com/?cid=1275146654214634730&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "national_park",
+        "nature_preserve",
+        "hiking_area",
+        "tourist_attraction",
+        "park",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "National Park"
+    },
+    "Kiyosumi Garden, Kyoto, Japan @35.01,135.77": {
+      "placeId": "ChIJ_SvuyD-JGGARUQZhJInwMIc",
+      "name": "Kiyosumi Gardens",
+      "address": "3-chōme-3-9 Kiyosumi, Koto City, Tokyo 135-0024, Japan",
+      "lat": 35.6809021,
+      "lng": 139.7972649,
+      "googleMapsUri": "https://maps.google.com/?cid=9741550465813907025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "garden",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Garden"
+    },
+    "Kiyosumi Garden, Tokyo, Japan @35.68,139.65": {
+      "placeId": "ChIJ_SvuyD-JGGARUQZhJInwMIc",
+      "name": "Kiyosumi Gardens",
+      "address": "3-chōme-3-9 Kiyosumi, Koto City, Tokyo 135-0024, Japan",
+      "lat": 35.6809021,
+      "lng": 139.7972649,
+      "googleMapsUri": "https://maps.google.com/?cid=9741550465813907025&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "garden",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Garden"
+    },
+    "Nagai Botanical garden, Osaka, Japan @34.70,135.50": {
+      "placeId": "ChIJiQqZlSbcAGARVmh4jAhY_E4",
+      "name": "Nagai Botanical Garden",
+      "address": "1-23 Nagaikōen, Higashisumiyoshi Ward, Osaka, 546-0034, Japan",
+      "lat": 34.6123152,
+      "lng": 135.5243669,
+      "googleMapsUri": "https://maps.google.com/?cid=5691520822829148246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "botanical_garden",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Botanical Garden"
+    },
+    "Parque de Juan Carlos 1, Madrid, Spain @40.42,-3.70": {
+      "placeId": "ChIJDxhIALUvQg0RE5k2R2VbvTM",
+      "name": "Parque Juan Carlos I",
+      "address": "GLORIETA S.A.R. DON JUAN DE BORBON Y BATTEMBERG, 5 , 5, Barajas, 28042 Madrid, Spain",
+      "lat": 40.4598175,
+      "lng": -3.6047531,
+      "googleMapsUri": "https://maps.google.com/?cid=3728236557077223699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Park"
+    },
+    "Whitby, Canada": {
+      "placeId": "ChIJSXc1_Ige1YkRyxJAHHEoe9c",
+      "name": "Whitby",
+      "address": "Whitby, ON, Canada",
+      "lat": 43.8997643,
+      "lng": -78.9400809,
+      "googleMapsUri": "https://maps.google.com/?cid=15527048606560293579&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Belle Vie, Whitby, Canada @43.90,-78.94": {
+      "placeId": "ChIJIYRe9ucf1YkR0wCV-CwyhsU",
+      "name": "Belle Vie Cafe & Bakery",
+      "address": "117 Brock St N, Whitby, ON L1N 4H3, Canada",
+      "lat": 43.8803662,
+      "lng": -78.9419633,
+      "googleMapsUri": "https://maps.google.com/?cid=14233118841081495763&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "bakery",
+        "coffee_shop",
+        "cafe",
+        "pastry_shop",
+        "dessert_shop",
+        "confectionery",
+        "food_store",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "typeLabel": "Bakery"
+    },
+    "Portobello road, Whitby, Canada @43.90,-78.94": {
+      "placeId": "ChIJhfUFmUkd1YkRxFsVFHRSYSs",
+      "name": "Portobello Road",
+      "address": "118 Athol St, Whitby, ON L1N 3Y9, Canada",
+      "lat": 43.8797024,
+      "lng": -78.9396805,
+      "googleMapsUri": "https://maps.google.com/?cid=3125870274878462916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "restaurant",
+        "pizza_restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Restaurant"
+    },
+    "Icha tea, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJ__8DpMQ0K4gRPNzVwLvVVkA",
+      "name": "ICHA TEA",
+      "address": "235 Spadina Ave. Unit 4, Toronto, ON M5T 2E2, Canada",
+      "lat": 43.651417599999995,
+      "lng": -79.39706249999999,
+      "googleMapsUri": "https://maps.google.com/?cid=4636127868795345980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "tea_house",
+        "tea_store",
+        "dessert_shop",
+        "confectionery",
+        "food_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Tea House"
+    },
+    "London, United Kingdom": {
+      "placeId": "ChIJdd4hrwug2EcRmSrV3Vo6llI",
+      "name": "London",
+      "address": "London, UK",
+      "lat": 51.5072178,
+      "lng": -0.12758619999999998,
+      "googleMapsUri": "https://maps.google.com/?cid=5951008119559891609&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Brixton Village, London, United Kingdom @51.51,-0.13": {
+      "placeId": "ChIJF8HHA2YEdkgRVb0f71B1D8s",
+      "name": "Brixton Village",
+      "address": "Brixton Village, Coldharbour Ln, London SW9 8PS, UK",
+      "lat": 51.462493099999996,
+      "lng": -0.11181350000000001,
+      "googleMapsUri": "https://maps.google.com/?cid=14632042704819699029&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "premise",
+        "street_address"
+      ],
+      "typeLabel": "Building"
+    },
+    "Hackney, London, United Kingdom @51.51,-0.13": {
+      "placeId": "ChIJgUR35uUcdkgRkigWi7YDIO4",
+      "name": "Hackney",
+      "address": "Hackney, London, UK",
+      "lat": 51.543638699999995,
+      "lng": -0.0553621,
+      "googleMapsUri": "https://maps.google.com/?cid=17158718662834006162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Kingston Upon Thames, London, United Kingdom @51.51,-0.13": {
+      "placeId": "ChIJU3SYeDcJdkgR7DU-PrIhP0w",
+      "name": "Kingston upon Thames",
+      "address": "Kingston upon Thames, UK",
+      "lat": 51.41233,
+      "lng": -0.300689,
+      "googleMapsUri": "https://maps.google.com/?cid=5494147119847454188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Mono, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJYfhpGwA1K4gR8DBBanEso4g",
+      "name": "Mono Art Studio",
+      "address": "87 Wade Ave 301 (3rd floor, Toronto, ON M6H 1P5, Canada",
+      "lat": 43.6599286,
+      "lng": -79.44575259999999,
+      "googleMapsUri": "https://maps.google.com/?cid=9845762075987620080&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "art_studio",
+        "event_venue",
+        "educational_institution",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Art Studio"
+    },
+    "Gargellen, Austria": {
+      "placeId": "ChIJ15jFd7CrhEcRea6vdG5N42Y",
+      "name": "Gargellen",
+      "address": "6787 Gargellen, Austria",
+      "lat": 46.97088,
+      "lng": 9.91818,
+      "googleMapsUri": "https://maps.google.com/?cid=7413854548381380217&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Mindo, Ecuador": {
+      "placeId": "ChIJB1JWmUZ81ZERIVtzm0_BQXM",
+      "name": "Mindo Valley",
+      "address": "Mindo Valley, Ecuador",
+      "lat": -0.048716999999999996,
+      "lng": -78.775198,
+      "googleMapsUri": "https://maps.google.com/?cid=8305131735502510881&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "colloquial_area",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Lake Atitlán, Guatemala": {
+      "placeId": "ChIJk7SDwMdKiYUREEm11vczbgo",
+      "name": "Lake Atitlán",
+      "address": "Lake Atitlán, Guatemala",
+      "lat": 14.6906713,
+      "lng": -91.20252070000001,
+      "googleMapsUri": "https://maps.google.com/?cid=751595327369595152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "lake",
+        "natural_feature",
+        "establishment"
+      ],
+      "typeLabel": "Lake"
+    },
+    "San Francisco, USA": {
+      "placeId": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+      "name": "San Francisco",
+      "address": "San Francisco, CA, USA",
+      "lat": 37.7749295,
+      "lng": -122.41941550000001,
+      "googleMapsUri": "https://maps.google.com/?cid=5354801294080388607&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Parque de San Isidro, San Francisco, USA @37.77,-122.42": {
+      "placeId": "ChIJraufRSeBhYARt-3p5SCli4A",
+      "name": "Francisco Park",
+      "address": "Russian Hill Park, Bay St &, Larkin St, San Francisco, CA 94109, USA",
+      "lat": 37.804385599999996,
+      "lng": -122.42100429999999,
+      "googleMapsUri": "https://maps.google.com/?cid=9262678619332406711&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "city_park",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "City Park"
+    },
+    "Coffee Tour, Medellín, Colombia @6.25,-75.57": {
+      "placeId": "ChIJOUBnFxUpRI4RIzGdioDejSs",
+      "name": "Medellín: Coffee Farm Tour in Barrio La Sierra",
+      "address": "Cra. 50a &, Cl. 46, La Candelaria, Medellín, La Candelaria, Medellín, Antioquia, Colombia",
+      "lat": 6.247056199999999,
+      "lng": -75.56983939999999,
+      "googleMapsUri": "https://maps.google.com/?cid=3138409159009841443&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": null
+    },
+    "Okunoin Cemetery, Jardín, Colombia @5.60,-75.82": {
+      "placeId": "ChIJ9-xm1p3YBmARIXiCrXhY99Y",
+      "name": "Okuno-in Cemetery",
+      "address": "Japan, 〒648-0211 Wakayama, Ito District, Koya, Kōyasan, 奥の院",
+      "lat": 34.2176933,
+      "lng": 135.6050531,
+      "googleMapsUri": "https://maps.google.com/?cid=15489946718694438945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "cemetery",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "typeLabel": "Cemetery"
+    },
+    "Okunoin Cemetery, Koyasan, Japan @34.21,135.59": {
+      "placeId": "ChIJ9-xm1p3YBmARIXiCrXhY99Y",
+      "name": "Okuno-in Cemetery",
+      "address": "Japan, 〒648-0211 Wakayama, Ito District, Koya, Kōyasan, 奥の院",
+      "lat": 34.2176933,
+      "lng": 135.6050531,
+      "googleMapsUri": "https://maps.google.com/?cid=15489946718694438945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "cemetery",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Cemetery"
+    },
+    "Provenza (Nightlife), Jardín, Colombia @5.60,-75.82": {
+      "placeId": "ChIJVf7Pb6kpRI4R2NFITwL29WE",
+      "name": "Porton de Provenza",
+      "address": "Cra. 35 #7-33, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+      "lat": 6.2084716,
+      "lng": -75.5657768,
+      "googleMapsUri": "https://maps.google.com/?cid=7058818480753660376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "amusement_center",
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Amusement Center"
+    },
+    "Provenza (Nightlife), Medellín, Colombia @6.25,-75.57": {
+      "placeId": "ChIJVf7Pb6kpRI4R2NFITwL29WE",
+      "name": "Porton de Provenza",
+      "address": "Cra. 35 #7-33, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+      "lat": 6.2084716,
+      "lng": -75.5657768,
+      "googleMapsUri": "https://maps.google.com/?cid=7058818480753660376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "amusement_center",
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Amusement Center"
+    },
+    "Crown Pastries, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJNeaMYwDS1IkRAXzXdYxlwnc",
+      "name": "Crown Pastries",
+      "address": "2086 Lawrence Ave E, Scarborough, ON M1R 2Z5, Canada",
+      "lat": 43.746295599999996,
+      "lng": -79.2931235,
+      "googleMapsUri": "https://maps.google.com/?cid=8629571489942174721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "pastry_shop",
+        "cake_shop",
+        "bakery",
+        "middle_eastern_restaurant",
+        "dessert_shop",
+        "confectionery",
+        "food_store",
+        "manufacturer",
+        "store",
+        "wholesaler",
+        "service",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "typeLabel": "Pastry Shop"
+    },
+    "Alforat Shawarma, New York, USA @40.71,-74.01": {
+      "placeId": "ChIJ77pb0g3N1IkRs9mPi-J8GrY",
+      "name": "Alforat Iraqi Street Food (North York)",
+      "address": "1756 Victoria Park Ave, North York, ON M1R 1R4, Canada",
+      "lat": 43.736498,
+      "lng": -79.30813169999999,
+      "googleMapsUri": "https://maps.google.com/?cid=13121937776743274931&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "shawarma_restaurant",
+        "falafel_restaurant",
+        "middle_eastern_restaurant",
+        "bakery",
+        "restaurant",
+        "food_store",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "typeLabel": "Shawarma restaurant"
+    },
+    "Alforat Shawarma, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJAzOlTgDL1IkRX2AFpjQ3FYI",
+      "name": "Alforat Iraqi Street Food (Toronto)",
+      "address": "271 Yonge St, Toronto, ON M5B 1N8, Canada",
+      "lat": 43.6553792,
+      "lng": -79.3803202,
+      "googleMapsUri": "https://maps.google.com/?cid=9373458898704752735&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "shawarma_restaurant",
+        "middle_eastern_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Shawarma restaurant"
+    },
+    "Kopar, Geirsgata 3, 101 Reykjavík, Iceland": {
+      "placeId": "ChIJC9qenCwL1kgRRV9coEIVT_Q",
+      "name": "Kopar",
+      "address": "Geirsgata 3, 101 Reykjavík, Iceland",
+      "lat": 64.1511111,
+      "lng": -21.9438972,
+      "googleMapsUri": "https://maps.google.com/?cid=17604312844316991301&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "scandinavian_restaurant",
+        "european_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "typeLabel": "Scandinavian Restaurant"
+    },
+    "The Soup Company, Víkurbraut 5 870, 870 Vik, Iceland": {
+      "placeId": "ChIJKZG6fNBL10gRjd9zV5zgobk",
+      "name": "The Soup Company",
+      "address": "Víkurbraut 5 870, 870 Vík, Iceland",
+      "lat": 63.4185083,
+      "lng": -19.009938800000004,
+      "googleMapsUri": "https://maps.google.com/?cid=13376219330353815437&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "soup_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Soup Restaurant"
+    },
+    "Landmannalaugar, 851, Iceland": {
+      "placeId": "ChIJtzljU_4u0UgR7pJiueZkNY8",
+      "name": "Landmannalaugar",
+      "address": "Landmannalaugar, 851, Iceland",
+      "lat": 63.983,
+      "lng": -19.067,
+      "googleMapsUri": "https://maps.google.com/?cid=10319265063304860398&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "mountain_peak",
+        "natural_feature",
+        "establishment"
+      ],
+      "typeLabel": "Mountain Peak"
+    },
+    "Heavy Rotation Musicstore & Bar, Heavy Rotation, Glockengasse 6, 5020 Salzburg, Austria": {
+      "placeId": "ChIJaxDNiYeQdkcRPnw97p9dvt8",
+      "name": "Heavy Rotation Musicstore & Bar",
+      "address": "Heavy Rotation, Glockengasse 6, 5020 Salzburg, Austria",
+      "lat": 47.8048699,
+      "lng": 13.051440399999999,
+      "googleMapsUri": "https://maps.google.com/?cid=16122426657511144510&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "bar",
+        "clothing_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "typeLabel": "Bar"
+    },
+    "mozart memorial, Salzburg, Austria @47.80,13.04": {
+      "placeId": "ChIJF-jEQ4iRdkcRVgvzGuoG-UQ",
+      "name": "Mozart Memorial",
+      "address": "Kapuzinerberg 7, 5020 Salzburg, Austria",
+      "lat": 47.8022115,
+      "lng": 13.048908299999999,
+      "googleMapsUri": "https://maps.google.com/?cid=4970011266324302678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": null
+    },
+    "Provenza, El Poblado, Medellín, Medellín, Colombia @6.25,-75.57": {
+      "placeId": "ChIJVf7Pb6kpRI4R2NFITwL29WE",
+      "name": "Porton de Provenza",
+      "address": "Cra. 35 #7-33, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia",
+      "lat": 6.2084716,
+      "lng": -75.5657768,
+      "googleMapsUri": "https://maps.google.com/?cid=7058818480753660376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "amusement_center",
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Amusement Center"
+    },
+    "Mono, Ontario, Toronto, Canada @43.65,-79.39": {
+      "placeId": "ChIJ1yPe87tVKogRdXO0KfJa2jo",
+      "name": "Mono",
+      "address": "Mono, ON, Canada",
+      "lat": 43.9462956,
+      "lng": -80.1042868,
+      "googleMapsUri": "https://maps.google.com/?cid=4240801995251020661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "locality",
+        "political"
+      ],
+      "typeLabel": null
+    },
+    "Mono, Ontario, London, United Kingdom @51.51,-0.13": {
+      "placeId": "ChIJfw5xNzwddkgRdwOUazLFjdI",
+      "name": "Mono London",
+      "address": "535 Roman Rd, Old Ford, London E3 5EL, UK",
+      "lat": 51.53287460000001,
+      "lng": -0.0306725,
+      "googleMapsUri": "https://maps.google.com/?cid=15171999540024968055&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+      "types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "typeLabel": "Coffee Shop"
+    }
+  },
+  "links": {
+    "https://maps.app.goo.gl/oS8jqxLsfEQSogS9A?g_st=ic": "Kopar, Geirsgata 3, 101 Reykjavík, Iceland",
+    "https://maps.app.goo.gl/eEMNDEsKb7jhMAhSA?g_st=ic": "The Soup Company, Víkurbraut 5 870, 870 Vik, Iceland",
+    "https://maps.app.goo.gl/vG3rEBxZWqhAhQX17?g_st=ic": "Landmannalaugar, 851, Iceland",
+    "https://maps.app.goo.gl/Mpnub8m1YyszAwB46?g_st=ic": "Heavy Rotation Musicstore & Bar, Heavy Rotation, Glockengasse 6, 5020 Salzburg, Austria",
+    "https://maps.app.goo.gl/QhAQboakprbMJo8s6?g_st=ic": null
+  },
+  "photos": {
+    "ChIJBVHuA4z0K4gRS1Rf3-b4JZU#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaN7N66rTFv-EodXuCVWR-lg2fR6Va3_chj8Jol5CF7i_nRy-u2zuyqqvv16rsuwNEpA5XzynlkMn57p3BT-lI1yd98u4cc-zzzyzOxi6GE8BtfNNW_i729OleshBJBZR-sY0=s4800-w1200",
+        "author": "Gheorghe Curelet-Balan",
+        "authorUrl": "https://maps.google.com/maps/contrib/110645329527937072282"
+      },
+      "fetchedAt": "2026-10-07T15:51:28.536Z"
+    },
+    "ChIJpTvG15DL1IkRd8S0KlBVNTI#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0SruUSZ8JO0xhx3ZlWU7OFm821rp8uSzNAGKqV8zFGUDTor8U6eJ7fh3Jp4ZYTsU9mEW8WDPAzU0Jz2a2r5k8QVlbtAvOoGso8zq205RHEmX1odrn66u04HYHiX42ykFXYId6=s4800-w720",
+        "author": "Jonas E.",
+        "authorUrl": "https://maps.google.com/maps/contrib/110251242354254809025"
+      },
+      "fetchedAt": "2026-10-07T15:51:28.758Z"
+    },
+    "ChIJwVPhxKtlJA0RvBSxQFbZSKY#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeETSNGT9A33mGR5N8OJQEZZ5HiML4xWUI3ViiLOJGM6Eeypsl6OKNejHKrrxOpLN6Tfp5R84NOzDlPYH1DCoddtyJLLKFe3O5GFQtoEVFVJe3uJl-UJhu-Jyx2O74gwraSrcwf=s4800-w1080",
+        "author": "Luis Gouveia",
+        "authorUrl": "https://maps.google.com/maps/contrib/116113339423213369660"
+      },
+      "fetchedAt": "2026-10-07T15:51:28.979Z"
+    },
+    "ChIJK2f-X1bxK4gRkB0jxyh7AwU#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdV2xjSZtDBuCpajdU6o8CBJjlCd0aGHL5kdlnqFahe1CBBaXKzC0fhVV8uIYIdPU7BJ6WHy94dUOi2CaDdZ6u7D9s1vdw0OdfrExCslXIOD7FqE5cnqsfKRU4-MC7bN7Djsjk=s4800-w1200",
+        "author": "jeff yaremko",
+        "authorUrl": "https://maps.google.com/maps/contrib/107834751357377486680"
+      },
+      "fetchedAt": "2026-10-07T15:51:29.188Z"
+    },
+    "ChIJ1T-EnwNwcVMROrZStrE7bSY#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQB98cznqPJ9LR11LBzhF6PhJa5cBm4uu2knNIomRG7HDfs2Ct7lgxrDoa3sPh0hFGy2DFUnx2pNDZU1yeDKaCUo_F3FIotnwkuHrfL7tm3hgZ5dbvjn5CEBDm_yDDdnW_gdGqww=s4800-w612",
+        "author": "Jassim Anwar",
+        "authorUrl": "https://maps.google.com/maps/contrib/108933587345666100977"
+      },
+      "fetchedAt": "2026-10-07T15:51:29.456Z"
+    },
+    "ChIJq3fTG1e0j4ARtHjho-E_TTk#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhLhEf47RxEF3WJ5gKt-foE3juqNx9Q4N0D-2UB1KW8PQ2UJOzcXiCy7GhZM-aOTVXfKjGyvE1CZmi6uIRmaL2GNIgwLyZqQayux6XH2QFkXqJJyF00UCStYWa6OKgwT3gfLj3bg=s4800-w1200",
+        "author": "Tibor Bütler",
+        "authorUrl": "https://maps.google.com/maps/contrib/116626525966382127314"
+      },
+      "fetchedAt": "2026-10-07T15:51:29.686Z"
+    },
+    "ChIJIz2AXDxTUkYRuGeU5t1-3QQ#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwy95iO1SLWXK42LOD3TSxiS4BwXiK2YDAwz0y14iplUDHkytuBGDjt5nK8mwGgWSfvEtB21a32CWAHZSMm1MFHC2ZNU0XVG4RcKtwiF1jzMchKDAU0byivhKH28qCXV9oz2k=s4800-w1200",
+        "author": "Joe 9⃣7⃣",
+        "authorUrl": "https://maps.google.com/maps/contrib/110188376846481365368"
+      },
+      "fetchedAt": "2026-10-07T15:51:29.943Z"
+    },
+    "ChIJ5aeJzT4pjEcRXu7iysk_F-s#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd1XP5ndQ_GckkWk0jYGJuy_Y-LXemYAU7BNbi2EhxEqLrU-vkieAvhnf68BfBke3vcehcDof8m8sFWmCy1fQsODw_foBD5nRFx1kwu0e6as477X86MK684LvCBES7a5l-x7H_E6Q=s4800-w1200",
+        "author": "Alby Set",
+        "authorUrl": "https://maps.google.com/maps/contrib/104466005256044944108"
+      },
+      "fetchedAt": "2026-10-07T15:51:30.268Z"
+    },
+    "ChIJOwg_06VPwokRYv534QaPC8g#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe86UqhKXDk9ESdz1OY5z_RWcO43wuq3rmSJw0iXZ2csYNo3Ssuhd4uakwpIaqJZjM0IN7dTULVAs1m0XVls-zsZceMmDPYg13qW4DKnpD_CLosS-mfeGYwySWeqYOkKcQgq7CX=s4800-w1200",
+        "author": "Richard T. (စဝ်ခွန်ဆေ)",
+        "authorUrl": "https://maps.google.com/maps/contrib/105120169978921831854"
+      },
+      "fetchedAt": "2026-10-07T15:51:30.478Z"
+    },
+    "ChIJgTwKgJcpQg0RaSKMYcHeNsQ#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeL__8Ym1DSEXbX1rDwHigoQpI5_iFyUGTCB8PM3JXh5gHhfLS1qYhP1wOoI82AWjUQq5_IEp9OGFLJhqDIxbtWNeg5Tblbo-tnEcqzxI_u_PfaqT0oCERX5wCr5lDlPTz4FBaw=s4800-w720",
+        "author": "Marina Vega",
+        "authorUrl": "https://maps.google.com/maps/contrib/109401663320544944135"
+      },
+      "fetchedAt": "2026-10-07T15:51:30.711Z"
+    },
+    "ChIJIQBpAG2ahYAR_6128GcTUEo#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeN0h62bJYqIeMqUC62SUGVEuDnzH1B61aSX98pa6DVqDTZ_glLauzD5PG5hUbF4beJoh559xC_I6_xDqUNEilX7y-OQx97r51SF0J6OKWKL2F8clFtlLW8bK-PFGZfRF0kKv-w=s4800-w1200",
+        "author": "Paul Lee",
+        "authorUrl": "https://maps.google.com/maps/contrib/106340214947412135959"
+      },
+      "fetchedAt": "2026-10-07T15:51:30.919Z"
+    },
+    "ChIJgSE2JZ1TRo4RvD_RfcFG5eE#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmMsAalPNDpb-n4eZEnszLfoohPjQft7hWGA4ImkQVezxhflsi6xCK_RlOwDT66lFGnj_CZTdg7Aec9gfRDTvPeLLkhY82GGi0LkFqQuOkMSOBG4T2rPmLq8aPgNJgwWCtB9oxCE=s4800-w1200",
+        "author": "GORILA LEON",
+        "authorUrl": "https://maps.google.com/maps/contrib/109065368715062215630"
+      },
+      "fetchedAt": "2026-10-07T15:51:31.259Z"
+    },
+    "ChIJBa0PuN8oRI4RVju1x_x8E0I#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfrcozm3Jh_m2QWHGFJRPRJct1BnyyqMMx5PtbwOTutMo5I3S_qR_3riDvi1y2hFaRC9aJv_Z9WmMKUTjBfTzXvShP4wzXqZf4OXkOR26e0YtUGBr58XD17YEgnBOd3hLdt7jI5=s4800-w1200",
+        "author": "Edwin Jose Torres Garcia",
+        "authorUrl": "https://maps.google.com/maps/contrib/106085799643707884549"
+      },
+      "fetchedAt": "2026-10-07T15:51:31.977Z"
+    },
+    "ChIJfZhw_WAnB2ARt77F1yK7kaI#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcmviaCwSUHmMhhWfIB44FR4OyYuEGs7FXxBDFXb4iTB6goW13KwZ5x3SmayNbCvsNPddmjMeafDWXRzPDFijLBdxGfzcBp2tT8BQqsUdm2JG5yRVakW-ZCzBhUfWwByFB89lmytg=s4800-w1200",
+        "author": "石原傳",
+        "authorUrl": "https://maps.google.com/maps/contrib/112180295062786717002"
+      },
+      "fetchedAt": "2026-10-07T15:51:32.176Z"
+    },
+    "ChIJS1pqu1RQ04kRNygIbGNjdQM#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdW-guudlzL_mbyZX8m-_7JfGFuYvXPZgn-gfQaEkE_2HU6klWkIe728glmdRmIGPRApz3a_Bm8m57Lec7I3_olPAhL-nK4JN7O8zLakUMZ0wpgAnQQ_QEaUy4lnD7vCh7ktTw=s4800-w1200",
+        "author": "Chandrakantha Mallya",
+        "authorUrl": "https://maps.google.com/maps/contrib/105047583182688883122"
+      },
+      "fetchedAt": "2026-10-07T15:51:32.334Z"
+    },
+    "ChIJdZOLiiMR2jERxPWrUs9peIg#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDxJkZM28sEBread8LWJ7PcT7rozmXNORWR1ggbSKs88vrtNzNXZuV3iFQSiNGXGDyaJ2gpneiG4q9npZeK5Q8xzvc07PGXWJ1cu6LHJE2OBFElHBTfFqVonkwg2-gtbmRT69-=s4800-w1200",
+        "author": "jojo",
+        "authorUrl": "https://maps.google.com/maps/contrib/115935725446331419340"
+      },
+      "fetchedAt": "2026-10-07T15:51:32.486Z"
+    },
+    "ChIJ51cu8IcbXWARiRtXIothAS4#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmOsuv5aTWSBRhDWpEvu5h7bO77SXahigf-V-EeV6nfqk3kkxHwdeBW50Z9j3OvDGswgVvRWjEvQwnrFYHep70NhshQmcOtgZQ0LZ0a25vbNWeZryN5hwZY71vIQPCESRvtn575UBWF4bPvL=s4800-w1200",
+        "author": "Julien Verdier",
+        "authorUrl": "https://maps.google.com/maps/contrib/103296538183125176935"
+      },
+      "fetchedAt": "2026-10-07T15:51:32.754Z"
+    },
+    "ChIJw-3c7rl01kgRcWDSMKIskew#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnX3KJ3CsvUeZlaLX0puJXmK_gskPktJdXPavkrriQNuHcLjdaDP-id6tHnDoopSb5BUXFUi7ZfbJRvX67fs6HMwN_246NvzfkpjR0BQO49BOFMOVlCUkx7lLTexPOV-zbnaEVAg=s4800-w1200",
+        "author": "Aniela Popescu",
+        "authorUrl": "https://maps.google.com/maps/contrib/101912938786669270318"
+      },
+      "fetchedAt": "2026-10-07T15:51:32.980Z"
+    },
+    "ChIJsdQIqd2adkcRPfcqQaGD4cE#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLevmLFM-uSorE9__rJdwhO2xylxPKdwkQqhJwwiMwh80FM0JGmyCm-VsOszAHmPsxJKGHoyJrTLBda0v7jRAwj8hBI-i2pydQIfIfAFfZiQNiqGquGSkZmGDlPoklt04evUh245=s4800-w1200",
+        "author": "Balázs Kicherer",
+        "authorUrl": "https://maps.google.com/maps/contrib/104547023011178835719"
+      },
+      "fetchedAt": "2026-10-07T15:51:33.223Z"
+    },
+    "ChIJO_PkYRozGQ0R0DaQ5L3rAAQ#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHdyOZGpeHX-uYYsjZ2qfxdxCfCL_EYMgpptGgK6xTpmFmdNhRWjXzisAF7zNAgoo7-xvyLqMOntdz9bpRBKH0Y9WQvJn6gYP-fKhzbKv2Pp-n_dfuWBye0TZEMjIVRqufWCuRPA=s4800-w1200",
+        "author": "dfkruz",
+        "authorUrl": "https://maps.google.com/maps/contrib/100356680344231811029"
+      },
+      "fetchedAt": "2026-10-07T15:51:33.400Z"
+    },
+    "ChIJ3-4mKyJln48RL_dIMz18gdI#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdpT0J6BtDpZI1O-m7IX4FLlj5iVHc4ve8YXhrviyLlMMK97F8ZSviGUQLv8cU7Q5JNwvCEV8h7XtV8d4keGlqvjxWf2u03fRgWq9OPYGiUCvB3771aAeBlNvIkw-V_0LX9_5A=s4800-w1200",
+        "author": "Leroy Wise",
+        "authorUrl": "https://maps.google.com/maps/contrib/106362416732743835281"
+      },
+      "fetchedAt": "2026-10-07T15:51:33.690Z"
+    },
+    "ChIJ5TCOcRaYpBIRCmZHTz37sEQ#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf46wOFI6ywjnjO8FkplSLGR4sKDkqercF-7Re5xPCJah0yOgmg8Z8NIx1KVsFD55JP0rovKoLRR5kAeX7AyPZau5Ta7u31Js30qaltVnQgzTcW4L60D_QqCsR6Jjs84OKxDGsK=s4800-w1200",
+        "author": "Sam Fantaye",
+        "authorUrl": "https://maps.google.com/maps/contrib/106471066755888249040"
+      },
+      "fetchedAt": "2026-10-07T15:51:33.895Z"
+    },
+    "ChIJ8cM8zdaoAWARPR27azYdlsA#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfFjo7dw72aVMCrGO6-aoOVVUWmrhgsbmAllIbGHAhvsR9EzHMcnPSh1xjXWKukN2k_WDHJL9qMF3s9CiuzUpVdndCZAwI8Ym--hiaNUC_l-HS8AlwEPpOVnaxIwmEMbBbwjjoL=s4800-w1080",
+        "author": "Prince 011",
+        "authorUrl": "https://maps.google.com/maps/contrib/114392038368678727074"
+      },
+      "fetchedAt": "2026-10-07T15:51:34.105Z"
+    },
+    "ChIJ4eIGNFXmAGAR5y9q5G7BW8U#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeZ-YwDCOvxFvxVUebFGx503pL2-tgfiFsrCjpmPJKTcOUlsq20pDIo_SYKEraeL0BHc98fJGC6PIRLs9g2jBjG12hZBHO6Bg-gehbWVRqMOhBtAFRIgRis9JsdSeAnoAZVGdJM=s4800-w1200",
+        "author": "yuka yuka",
+        "authorUrl": "https://maps.google.com/maps/contrib/105682210596758188825"
+      },
+      "fetchedAt": "2026-10-07T15:51:34.246Z"
+    },
+    "ChIJSXc1_Ige1YkRyxJAHHEoe9c#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeq2dxx4D0wqnHBZp-ohma_e2DtD2Y-v_urE1vhxtjrGge83lCnZmPEtQphcGSjxFwjmC_CXSWt7SgfK-ndzAu0oQ3inxgRdAuGNL41eIn0JoC7c065jO3VdFWARRgBi9FYWRsryg=s4800-w1200",
+        "author": "LIYO JOSEPH",
+        "authorUrl": "https://maps.google.com/maps/contrib/114859625078255995297"
+      },
+      "fetchedAt": "2026-10-07T15:51:34.411Z"
+    },
+    "ChIJdd4hrwug2EcRmSrV3Vo6llI#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeWcunxkEIloyuQWoJ93Ny6-Xb1MJsQhpaqR8pUKv98yA5_7MUkrMi9YkkTSsYuXFlvzQty20M_r0oOkOaT4oD9sW8LBeTQ0Z5GYaFo-VR60yIFdPruJIXdyMod-rpAZOJLL9EW=s4800-w1200",
+        "author": "Andrea B. B",
+        "authorUrl": "https://maps.google.com/maps/contrib/113566393254659091472"
+      },
+      "fetchedAt": "2026-10-07T15:51:34.619Z"
+    },
+    "ChIJ15jFd7CrhEcRea6vdG5N42Y#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcfSq3ZuZnBT4iN-60sh6oBF7uMKkwnBhGAnltcv_EXdREADg7OPdxlY_t1BQCU28gO2zBiqohAZBYYThuPjRObVZQ-85CxSgS_Af8ts5C40kXMCVX2yA-rimEWcvMecIhKlYU6=s4800-w1200",
+        "author": "Monika Reichart",
+        "authorUrl": "https://maps.google.com/maps/contrib/106447881700642269722"
+      },
+      "fetchedAt": "2026-10-07T15:51:34.790Z"
+    },
+    "ChIJB1JWmUZ81ZERIVtzm0_BQXM#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqTaczCGd9RMV_brcjw-MYzirtEqsRlxijo00K9ZWckl_rANK_gKn127IC7Caiqrde4jwxjjFOhDW4-IADTSGns-3rd-_yZKbcMiYG0TeBavTLuymyf90gl-EwzzIMFQjUvlc=s4800-w1200",
+        "author": "Jorge Muñoz",
+        "authorUrl": "https://maps.google.com/maps/contrib/117473653667730110125"
+      },
+      "fetchedAt": "2026-10-07T15:51:34.984Z"
+    },
+    "ChIJk7SDwMdKiYUREEm11vczbgo#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeJ56EDhRXyQsIdpCiiYmroSCsIb2IfL3ENIg8t82zLJyb50C7DTn88veQ1E92xLVg54nT-4x7Ax8jWZqR2z6AJJXhIGwz5rNg9yB5ccpxN93FGEmpm2f3Tpx3hCymjL6zNKcOtQQ=s4800-w1200",
+        "author": "Karl M.",
+        "authorUrl": "https://maps.google.com/maps/contrib/110108159615859518383"
+      },
+      "fetchedAt": "2026-10-07T15:51:35.298Z"
+    },
+    "ChIJHeccUjb1K4gR4KXUdOSIIIY#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcA7leVJ6tnjd5r05ERA1mCbe9PSv7ksx7nw5jKzOeLCyc2ilfAdCMZiOR9UAVqubh_7JWOmhvhTZalDimuf-X2yCCdpLz_kGA40vmXS8VnYw8WNrppDw2ijkttJfwsKDnYSbLTajWt6GCK=s4800-w1200",
+        "author": "Retro Rollers Roller Rink",
+        "authorUrl": "https://maps.google.com/maps/contrib/116996840918466463623"
+      },
+      "fetchedAt": "2026-10-07T15:51:35.508Z"
+    },
+    "ChIJx2wKovT0K4gRdEggxsFB7T8#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfcvN4LL_DvoFM_TvvxEJMA3JVtkDhFVkBZonUYxl8n9eQxeD_3jxiy8waBsG7SdafF4ROQ-SpbPAAUz5ZRKeq041OFoBuVf_3VgIXrg4Lh5HBsJDi5Se7dOE6pAp9r9CmarowI=s4800-w1200",
+        "author": "Chris Colliver",
+        "authorUrl": "https://maps.google.com/maps/contrib/109755365417170039354"
+      },
+      "fetchedAt": "2026-10-07T15:51:35.713Z"
+    },
+    "ChIJ3callozzK4gRscbcTK_F2F4#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9-lncos_AjeSKGmFcNn7Gd_Wl4j3n7QpIDhvcKRXNL48NPI_MKS7Dq-hRNbNkowmaNb3lDhuB-SGjXh-2d2nAYwf4i3MJxpUzs9dWetqULyTMHEFuFkJYNlRsUqUBffH62ZHqOg=s4800-w1200",
+        "author": "KW Escape",
+        "authorUrl": "https://maps.google.com/maps/contrib/112903019366862749004"
+      },
+      "fetchedAt": "2026-10-07T15:51:35.961Z"
+    },
+    "ChIJ3-nE3_rN1IkRL7LCGCO7hWI#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmP2VtJKxqIbS2Ze8mfLi3UoLneUQ-RvX9DpenNqEvw5dsdw4aMRTDEmZHPL06cRwn-a57pPlgERz8wvL7rJK_P1o8V1RVpK6NFMu0ut8rpiAWlboB0fOcni5PCqR4TAvIgwujt5spVMfyus=s4800-w1200",
+        "author": "EWOWDAY - Lifestyle & DIY Workshop",
+        "authorUrl": "https://maps.google.com/maps/contrib/111587537249758824883"
+      },
+      "fetchedAt": "2026-10-07T15:51:36.216Z"
+    },
+    "ChIJq3onVLs1K4gR4yn1DeyLBfU#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKY9vbAnwt0_Xg0Z-e09Jws6hPwyhnL5_SFUpYbwWaygiHwTE4JatlaRcVLIB2snyhof0xRUzGYEHkq6Ev1_4ZeJKRFIy_tpDM9pM-hQZNN8UGc2cL19XX7bmcm94eljmsJMS9szblaX-H=s4800-w1200",
+        "author": "Fifth Note",
+        "authorUrl": "https://maps.google.com/maps/contrib/110144008293692361945"
+      },
+      "fetchedAt": "2026-10-07T15:51:36.462Z"
+    },
+    "ChIJu780VSMxK4gRRqfzYFKV2X4#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf4SqnkQjVmlm_26yfUQXosrZ3jtjzkoyi7Rd7iG22_ePx4c6Zl76RHWwfu8fC-L8WkC2IltQqvPoNuWSpYFMbDaZVwHYAdLbtW9_-FQZw_xc5uBAAc-BUX8rSIr1zhjiAaaRpxw9hwDBZk=s4800-w1200",
+        "author": "Dardoush Reviews",
+        "authorUrl": "https://maps.google.com/maps/contrib/112678265218990933886"
+      },
+      "fetchedAt": "2026-10-07T15:51:36.674Z"
+    },
+    "ChIJPQfHdSBlJA0RXjOuZuKlkXg#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdi0xQg_tw7lv31Mu6kZ9xEnSmMU-2iZdzBwkDpVpy72iwF8bTb6M8jPOm-_39hbeY1N-6DhY0aOYErYlbyv3HSJU0iyAYTEoTIZm6naq2hA3bOdIoInZLPEQXiILsskw=s4800-w1200",
+        "author": "Knalllife",
+        "authorUrl": "https://maps.google.com/maps/contrib/101227608028459003549"
+      },
+      "fetchedAt": "2026-10-07T15:51:36.876Z"
+    },
+    "ChIJNViaYOJkJA0R_mOhG3VsNak#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeW5MPIMDjv6l-pXSlA7Ivipr5V3zVx70bUPEAuSPTwWHwGambEaWCRYoimZs_KaemtSH1IUfffKPGKahRKDPjfqVCpj4EbG82uj1UItQEcZo-ITbOUtxGev7XpTA2fJ41VD1fV=s4800-w1200",
+        "author": "Base Porto",
+        "authorUrl": "https://maps.google.com/maps/contrib/101511655389539764065"
+      },
+      "fetchedAt": "2026-10-07T15:51:37.043Z"
+    },
+    "ChIJEZ6T3_5lJA0RK-OYoZM1awA#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcbnZVgKXItuqBRgsIYT7HKAMaygoAnAvKPOIBfCi1VMnpPcRmUfSlSsKLEzIIUlIQT8UU-DS3Sm2mWsqPlpz5NdizMm9BuN5FwSiQNYnlAhZAxcv0yqVidpmA5cKFdI3jrD3s=s4800-w1200",
+        "author": "Manteigaria – Fábrica de Pastéis de Nata",
+        "authorUrl": "https://maps.google.com/maps/contrib/110873446786295680464"
+      },
+      "fetchedAt": "2026-10-07T15:51:37.262Z"
+    },
+    "ChIJReWOPQD3K4gRIyWzcmWlE9g#0": {
+      "photo": null,
+      "fetchedAt": "2026-10-07T15:51:37.360Z"
+    },
+    "ChIJHfF8w7BvcVMR_StpnckVJAI#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfik4WtozsJjC8oJXnXPmgugySQPFf_TeIYqbQXi2W7RoUyRMUmQtaRDzUoc4Vc6ZFu1dtN_pSo-VAAzmOI2lIyMR-GjKEd3qyaP4AE3SCAuJD_E6MBKzzeBlUVvWk_FCpH0YT5=s4800-w1200",
+        "author": "Sharika Shabnaz",
+        "authorUrl": "https://maps.google.com/maps/contrib/103249506372892793549"
+      },
+      "fetchedAt": "2026-10-07T15:51:37.522Z"
+    },
+    "ChIJpwScCv1vcVMRIyGXs2evBgM#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmOEWTkFmVZe2aVeNPlatcQyQ0yJ97a1KzT5e2sAB-RF_iGjmFFI9vZHc6bRSIu4-XkQarybwIhYdyutG-pXgUtgq7G1Vkx4URgIaAhMhHOPgbURpL15UeaNW1Pi8JYZg3SV_6yP=s4800-w1200",
+        "author": "Giovanny Romero",
+        "authorUrl": "https://maps.google.com/maps/contrib/110817278078074309637"
+      },
+      "fetchedAt": "2026-10-07T15:51:37.758Z"
+    },
+    "ChIJXXPAy-BxcVMR_RqeGfAUQLM#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyB9a1fr9CtTKZWXOQmpDwVyAAFXsh0EGcRHJCmbCrgRpryPWqSvpFOZgEh6YrsIJiCJlvXbZNBDxqzODHcNNCLfQuOAxPTyYQRW3f03KJmx2Xwv99WBUD1tpjH6n0I4rlSsOsMjCvf43r=s4800-w1200",
+        "author": "Catadores Locales",
+        "authorUrl": "https://maps.google.com/maps/contrib/101381240932531895078"
+      },
+      "fetchedAt": "2026-10-07T15:51:37.943Z"
+    },
+    "ChIJf3BxxhLnjYARq0SCAel7-tI#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfymmOaruNW2eydYvjilgY4GVr9fVKZXgPN7k_VACWpOnG_91C0i04nQh1qAsG_yOlzEzrDhjBrNF80aDVlzUr_OR0Owni6-hEQkJUxx5VNNXLiRaFvjdvsgw3UQf_adxYrGGsh=s4800-w1200",
+        "author": "Amina Ayoub",
+        "authorUrl": "https://maps.google.com/maps/contrib/105251610509972073897"
+      },
+      "fetchedAt": "2026-10-07T15:51:38.111Z"
+    },
+    "ChIJzzjKqP9ajoARlBtRFrPDKck#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcqP_3Rvy3JFOoGoCQ0hvYoZkMt-ZPO0iw2Vt4sTz9fgkjZwlHQUZYXs0WEM2obKsdTzWG2tPbEG5YdopBJxk76pqncLRI0wqUix5kJbN8WKsL1u59GRwE7l6sxsJItGqwQu1q-=s4800-w1200",
+        "author": "Davin White",
+        "authorUrl": "https://maps.google.com/maps/contrib/117210425734769285721"
+      },
+      "fetchedAt": "2026-10-07T15:51:38.364Z"
+    },
+    "ChIJEcZeeam1j4ARghq2dw5tUNE#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdqDnEbeAgCWZ3Dxio9MDh90cKnM17QTummngwvg-A_xvENKwkO5RyrtqWLF3htwon0uIQ_tG0mt4CVMAACn8Y-xTMz06gbgaF2HNcEDlGjWwJpdgogL-nw5-qwpeMJU-nanwxU5g=s4800-w1200",
+        "author": "Samuel Huang",
+        "authorUrl": "https://maps.google.com/maps/contrib/114901374817672903118"
+      },
+      "fetchedAt": "2026-10-07T15:51:38.536Z"
+    },
+    "ChIJU3W3ZBFTUkYRR1sx91IE5FM#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmPoy-Q8Ux0tRwfmjVMXL7S2pxdqw5HxnBsu8LUx7fERxhInlkwc-MnHQcFSPKL5vZHTFz0c10r4mYTw10B9-W5faJNtvL5nBV-WFIAsaQUatHvHuX_1gnP0m3i6l1lI5IpFoCc=s4800-w1200",
+        "author": "REAL6",
+        "authorUrl": "https://maps.google.com/maps/contrib/103164299161602458217"
+      },
+      "fetchedAt": "2026-10-07T15:51:38.797Z"
+    },
+    "ChIJA-bOKA5TUkYRIQrsmpPyOSI#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmOlqku92UnlGl8PUbLSIJ_pldGFJOnpnYaYxpFU8z4wuwiPIDK6w0nC3DqEIjdawvOB5tNUNesaq68_c0BnsSjeXiZp6uuRQ9awvFskcJkQnWVnYHAFIejbbX_uMJTjDw=s4800-w1200",
+        "author": "Ramsus Røsensburgers",
+        "authorUrl": "https://maps.google.com/maps/contrib/105764270729976812158"
+      },
+      "fetchedAt": "2026-10-07T15:51:39.008Z"
+    },
+    "ChIJ14HX414xjEcRyZyhrieWh9s#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmMI5QYGuROn2M3qPhmHrlact3l3V_LT9hP80fys4AofqMZ_5kDJS9qf4ENnAqeUtg-A9oSyuEKJWbri9JBzqeTWOGgy08NPVaw_RpV5kkcpJiQWjUeOE2EmCFmtanpIZEUHPFdZXr2HTLY=s4800-w1200",
+        "author": "Hibou Hibou",
+        "authorUrl": "https://maps.google.com/maps/contrib/109998293627836214038"
+      },
+      "fetchedAt": "2026-10-07T15:51:39.182Z"
+    },
+    "ChIJFQ36WTEujEcRXlmhHrxE4zk#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmPWzbLztN342NcXecWdBmHHdQbwkczD3Wn0lVQo4UaTQKI0_Ec0qyLlrYXEsTel_gobye4K8hXni1ckZyelBZjPsoo3TGA_RYcPFrkt6DhaUh-tgHc9ZT-__5lsAsAA_pJCGI31eA=s4800-w1200",
+        "author": "MUDAC - Musée cantonal de design et d’arts appliqués contemporains",
+        "authorUrl": "https://maps.google.com/maps/contrib/108270793323095576725"
+      },
+      "fetchedAt": "2026-10-07T15:51:39.379Z"
+    },
+    "ChIJ7XS3FNs0K4gRWU6Z5iAzsE0#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmOlwYTIFAqVQc9Sj8WvbXhaOJhIGrOn2OM4DG7H110MNxHtcMTPmUMRL2D06QOngsKqSh5VutSaGmCUsWHb5ycTGFUk5kvlCq4TBdboaRCeUAsYT_49OjMPItRqpTAzz4xkazP5j3ZEOFUb=s4800-w1200",
+        "author": "Bill McKinnon",
+        "authorUrl": "https://maps.google.com/maps/contrib/109232004084848842523"
+      },
+      "fetchedAt": "2026-10-07T15:51:39.551Z"
+    },
+    "ChIJSXT5Ids0K4gRsDMq7GUdC44#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdI8dfIex2aqxVGr-ejsIjGlwuw-gmBihE6VW1StgduyucJmn_4F3KSrqkcte2k27K0dxS96gUPRsJlMtoXPjENYGfBYvF0KuPLpvWRRAWKGK7KrtoHF8T_Bn54H9bTMPQr2icdgQ=s4800-w1200",
+        "author": "Rivoli Toronto",
+        "authorUrl": "https://maps.google.com/maps/contrib/108109626313300546840"
+      },
+      "fetchedAt": "2026-10-07T15:51:39.720Z"
+    },
+    "ChIJTes2ycE0K4gRZmcma93jfHs#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmMZqMmSzMkAdXWlgjXePylr-K0Zfc4P9ISB7QYv1BYE875RRhweW8m_jTdlRDQtud9O2mg8ZBalhyNb3gazPhSrxxsd6aQlClgBckhHCDVeruHP7PFTnPHMOaE6374oA9GHO6LspLftYHwS=s4800-w1200",
+        "author": "David Liu",
+        "authorUrl": "https://maps.google.com/maps/contrib/117898929807345765294"
+      },
+      "fetchedAt": "2026-10-07T15:51:39.939Z"
+    },
+    "ChIJ4aW0Iw30K4gRVeqPT0TEluw#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7gtXfbZo6M-WJ-YwZE1TPmmm2uaShfjtrju1OpeodNncyhkdLW8hPNJJmYURzRizlRPz2wer13Ixx5z6LyIfGMXTthQDQwzD9ZqRSncJN9GBwNHDjFzSqpP9JpGWJa0C1W47T=s4800-w563",
+        "author": "Eat In Ontario Blog",
+        "authorUrl": "https://maps.google.com/maps/contrib/102676373262961355257"
+      },
+      "fetchedAt": "2026-10-07T15:51:40.111Z"
+    },
+    "ChIJt5kftej1K4gRmWE8szi49a4#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeONwaiV9ugOFyHv22sWLzb6m9Jz28H78-iQWMjDoEYZ9x8AosZyNsCQkskkrzyNWYnf-tOu-WJKeGVMsAwIbTtLzWGFn8o2dIG4ZzYT_0u1bI-XSQ39-rq0QiqUgpgNoNMku0=s4800-w1200",
+        "author": "Chris Koy",
+        "authorUrl": "https://maps.google.com/maps/contrib/115278112628366401788"
+      },
+      "fetchedAt": "2026-10-07T15:51:40.294Z"
+    },
+    "ChIJyytyQ_TzK4gRJgfMbVSBg_A#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfegGgqpNlvWog4bT43RMTDHLKSVDcBDo6a8jkoV22c6fPwA6ankbUO_Q9Ut424Mv5bXiuTh0BCEdty3Sz4rnVkvZmyS4LZFyaaGDFuxxXqGCviFh1f0lQkNXuaIal4RZKxD_vFjg=s4800-w1200",
+        "author": "Most Rahaman",
+        "authorUrl": "https://maps.google.com/maps/contrib/117102494575119930920"
+      },
+      "fetchedAt": "2026-10-07T15:51:40.452Z"
+    },
+    "ChIJH5q1BzpawokR4ffTuJzssbQ#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmOE5VIYVro_bN2oXhQf8Sa2HfxSGsJVh5JF_6Hf1rSM-XvFWgwJBbNDPnxuXtlujnxTmmMthC9p6WSXu9DO1nejPoFLvUvA26jKrs7un-EMvVVXhnHY6ibVhqCtf61HOO8jBFmh=s4800-w1200",
+        "author": "JIGAR DOSHI",
+        "authorUrl": "https://maps.google.com/maps/contrib/115557404095319133738"
+      },
+      "fetchedAt": "2026-10-07T15:51:40.661Z"
+    },
+    "ChIJuQeWi_lYwokRB0tWx-ZYzHI#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdgLEr1u_MBXhwjM_yxPsW8tSpcIl9mTXGyyBMrQDbgI-Cr2IYPS-oOhM1kKEiy-cRfC4qr1IQpFiBvRBPAMPuDmypus9y-3-D6YNUcyYNXcFHQY0NGtaKegeSGuVp15uPxFf4iBQ=s4800-w1200",
+        "author": "Christian Cassidy",
+        "authorUrl": "https://maps.google.com/maps/contrib/105450461291574609486"
+      },
+      "fetchedAt": "2026-10-07T15:51:40.920Z"
+    },
+    "ChIJKdN-A4JZwokRMa5YUK8FIp0#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLek5ZJnotav5ZGF7f6o-UGgP2VgjwpFdsfBaYH2yRByJ0HzyP93uTecBX5F3MRr60SXyIaMMPJXtBfjPCOD1h5SK0iEf3uExO2U9ZqLwjeN8Aoazt0bJtFEXETbHiFut7Qx-uOO=s4800-w1200",
+        "author": "Max Guliani",
+        "authorUrl": "https://maps.google.com/maps/contrib/111735457748892062484"
+      },
+      "fetchedAt": "2026-10-07T15:51:41.083Z"
+    },
+    "ChIJ5bY4x-gnQg0RMzA2yjRLxuw#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfTxpmEi-cp8AyhKAlrEBthKbf0CL0nZl0b7DJnM6tzpF1rtBA53KKmVA6jw4ibiSOzoDVIrESgq6jFLWcov4ju4qdUGYnYSxJfL5_XbETN4we7vrX6yDRAsW4ESF-2Sm81zRs=s4800-w1200",
+        "author": "Miguel Alvarez Hernandez",
+        "authorUrl": "https://maps.google.com/maps/contrib/111061097824278196856"
+      },
+      "fetchedAt": "2026-10-07T15:51:41.248Z"
+    },
+    "ChIJcT_mor0pQg0RC0MWgHs_D3g#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYJR-LN1Qm6jeVjuj6WIaZaUkS5HDV7thoG0ZmrH5Dd7_VhLRQhLSoVyKz7VRuoCLmKpSTHduI9BHv7NMXwoMGXNLROhjo5OXwDDviQLjnjzyMyCpmGwQiXOClT-aRJ6ueWqsdO54zzl0O=s4800-w1200",
+        "author": "Rita Margarida",
+        "authorUrl": "https://maps.google.com/maps/contrib/116737256985187900908"
+      },
+      "fetchedAt": "2026-10-07T15:51:41.448Z"
+    },
+    "ChIJKc19uuonQg0RhFy9TWeEfsw#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeOWLhgbLC24NaEikFtKBlrWH_cUl7tM1AcfnKILABh6lpvWukB1HztGtk7sYcfFFEeZG__lfDHKXon0YTA7Z6LTq9jRSl1OxthGoMFMM-A8ikCXAkolY7HKS9KDz3oV8_2u33l_NWaBLj_=s4800-w1200",
+        "author": "Nuevo Kebab Hut Bar-Restaurante",
+        "authorUrl": "https://maps.google.com/maps/contrib/106406563936293958192"
+      },
+      "fetchedAt": "2026-10-07T15:51:41.654Z"
+    },
+    "ChIJe9B7gC1SRo4R5hElCmUx3ZE#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmOjOoThycejtMVyGxQxD3zzTHN4VocLfCvNMl48rYnZWWvPLfCZwDRFglrqFY8cqmv8BPVYpqlnQWbfvlr9qCJufLrF0aBFQjEhinnKAvj-hS3XIwdB9LIAlNau5GUkX321Jz5-zykTpoOJ=s4800-w960",
+        "author": "Café del Jardín - Tour Cafetero",
+        "authorUrl": "https://maps.google.com/maps/contrib/111198314237406386641"
+      },
+      "fetchedAt": "2026-10-07T15:51:41.806Z"
+    },
+    "ChIJaS4LGV5TRo4REz-hLoHlxeo#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfnI4XqHV6JOpRNdANylg9IaJLQfYFeL4sOlUQ4tey2lSivQnbkO-9XAxxFqKqpqh910acwcX0JSKxSxujepI0-E1oInCAAnUTNSmyow8Pmj_IjcRjCHgSiMLN1PcwZfIxF8NGKU8aXSVwP=s4800-w1200",
+        "author": "Esneyder Molina Q.",
+        "authorUrl": "https://maps.google.com/maps/contrib/109370375621034972628"
+      },
+      "fetchedAt": "2026-10-07T15:51:41.983Z"
+    },
+    "ChIJLY6h3FcvRI4R6f3NOGIsmv8#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmNPXn-E3DzYWFI5oJ3iPkyS3RmW7n0Boe7VxmzRBRogeEF3aHcYGWsu8E84EYK1qQ6eeUgni4gPJBbFx7b5wt9qU5c4Cl63Sm8oU-LYwbMfZgosoz_f9duFxta8ypOBokR8jt0=s4800-w1200",
+        "author": "Edicson Rodríguez",
+        "authorUrl": "https://maps.google.com/maps/contrib/111538672034241918348"
+      },
+      "fetchedAt": "2026-10-07T15:51:42.191Z"
+    },
+    "ChIJ9-xm1p3YBmARIXiCrXhY99Y#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd0inBgK-GduJATEcDAaR2VjbIMGDAMO8jjrgN6YFGRV_1VAbPB3H7MRkixhpm-pYvu9W6Uh2uWUwCB5Ijhfjw2XztU3F77qjonjINiF1Y0EWMBE_kyuO08EqYcjdxEjYBxpLcGFC1HFq13=s4800-w1200",
+        "author": "Dr. Tajim Md Niamat Ullah Akhund",
+        "authorUrl": "https://maps.google.com/maps/contrib/117931740658597585688"
+      },
+      "fetchedAt": "2026-10-07T15:51:42.364Z"
+    },
+    "ChIJ-TitDQ0nB2ARwgYPgu5bEes#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeIQqLwAVrLTmcZt-wFku30oYl3-qqv82qwUavXsi84zQCyFBEDWcmUNaIPgGh4838OpqaAS7qtfXmcjap6SlwlusZLHtBRj1MuyupAv2TJ-RmJNtyTZrGzKlHZmHCleYaoV1tr7Q=s4800-w1200",
+        "author": "敦",
+        "authorUrl": "https://maps.google.com/maps/contrib/109431494759584893948"
+      },
+      "fetchedAt": "2026-10-07T15:51:42.579Z"
+    },
+    "ChIJVf7Pb6kpRI4R2NFITwL29WE#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdB0nLHvBrerdgcdYwjIuLBNtkhovkDFD7FMS-4w9M1Qur3IU62_1cu6VKuuC1Pg1FWrXejivou7snvDo9WVPfwpszdc5vxywNKdwvJIZOYM80qoeOvYaktgeNMPdRHHAaokWQO6KKMgnoY=s4800-w1200",
+        "author": "Dharani Castro",
+        "authorUrl": "https://maps.google.com/maps/contrib/116007104793263025065"
+      },
+      "fetchedAt": "2026-10-07T15:51:42.724Z"
+    },
+    "ChIJG01e4c01K4gR5inw-zuOYr4#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmNRucX6twNeWlUEHBYdDcYF_YXLRQZYwdVHOMGkKK9sR3SSwjGxcqxUTgKs1TzW8VWrF6kjlkV6tb_llqvDmkXz4fkfp_BgH-Ewnt5VOh1sEk7DfQV5xzlJ9VoANNizhL_AEP7l=s4800-w1200",
+        "author": "Irena S",
+        "authorUrl": "https://maps.google.com/maps/contrib/113510694690407056329"
+      },
+      "fetchedAt": "2026-10-07T15:51:42.883Z"
+    },
+    "ChIJaZ_sTcc1K4gRXb9TuSNRaHk#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLflTltor--iI8ZPm07Q2pETjjbwmKX3uqFNz1xY76tRk5gIT5mLCjF6WJjcH0D-EY9t8n6tXzHiPP1S2zZ2rKJ0TtWogvq--GKJ7_lYn8Kkb1RY93-UZorDgicyqgrSaO4usM9ud5hy6JES=s4800-w1200",
+        "author": "Sebastian Vasile",
+        "authorUrl": "https://maps.google.com/maps/contrib/103982057309783143460"
+      },
+      "fetchedAt": "2026-10-07T15:51:43.135Z"
+    },
+    "ChIJQVnt_zHL1IkRdYL-W2oVBVc#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmMNRbcj8ezY0fMetL_I0V6VBKg0cTb-Xdo53ajdqtPiP8Eox5vvrqRVmDVBKD-Tsv_3O2MTqVHln3XSWqJerpdTJkeZWv8GJKIof8lgJKE3Tvts8c5b8UurizX-mCY8SO8xSV3e=s4800-w1200",
+        "author": "Hossain Khan",
+        "authorUrl": "https://maps.google.com/maps/contrib/107431117693660399546"
+      },
+      "fetchedAt": "2026-10-07T15:51:43.315Z"
+    },
+    "ChIJf98z1FNQ04kRtVeqMEfom0M#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmOC6KrlFXuzcZ4rAnxrtQ4Snm5uCVAXKZVaHleF7wYQTIPpS4zGy_L80jU7nRYa62Hk0T1EyHoZmUM1xZaMifilW1sibCThYvhe0HC2hTypHUOUPZ37leo_XFvsk3Oh4uOe3y4=s4800-w1200",
+        "author": "Fat Rabbit",
+        "authorUrl": "https://maps.google.com/maps/contrib/107126955111505681855"
+      },
+      "fetchedAt": "2026-10-07T15:51:43.507Z"
+    },
+    "ChIJJ6T88qxR04kRKbqNN_4E_9Q#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfbAlf1LfxAMH258JPeua1CXA2mxVZYbLIRm-sBbAkh_yh4Hp1iSnzOtxDlmwM8mpwOcRpQpFJoz19Kjjnr9J3KCPUqk9S6HwidIPQpIpVtR_EPBIgBvpiDr909D8Vjgg778QEAPw=s4800-w1200",
+        "author": "Chocolates Etc - Always The Best",
+        "authorUrl": "https://maps.google.com/maps/contrib/109060433819150998879"
+      },
+      "fetchedAt": "2026-10-07T15:51:43.692Z"
+    },
+    "ChIJG3o3SE1Q04kR8BGMqrRwY0Y#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd6MESbDbpWffB3a5MzamBNiI9o2XdGKSb_-iRkm7GapwSGid08nXTde-7DLaa3GHlb16xSXfT1wPZ6eZTRJcRy38ID1ovIMWuWBmWA08weQUPl1ie_DvLYlKVL7tSChS6ct6i6=s4800-w1200",
+        "author": "Beechwood Doughnuts",
+        "authorUrl": "https://maps.google.com/maps/contrib/107760764933446950643"
+      },
+      "fetchedAt": "2026-10-07T15:51:43.862Z"
+    },
+    "ChIJA5LATO4Z2jER111V-v6abAI#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7MYsE_ItiB_w3r6Byzaa7jgmlk-pqMOp6QQFxxntE9cFEBhFjwsUdlROYI6SESp9C8eAFfRLRhq2Swq9caKTUl_4KilTmBw_l4AZNbnaE7j6Zz_QR_MiL8hujcUM-QskhsSnkfg1G8dE=s4800-w1200",
+        "author": "Marina Bay Sands Singapore",
+        "authorUrl": "https://maps.google.com/maps/contrib/109895659147477395527"
+      },
+      "fetchedAt": "2026-10-07T15:51:44.020Z"
+    },
+    "ChIJHywT8CgZ2jERtYLxa8fg7OY#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLd3f59oK-5G9S_Pps7mgeOO3iF9Q3L2ocUr_6ZV3U6JH5O4QL2c5QDa-Bb2nkHdQyn4DzxK9J1EtDbwSjPHBXHJ3wIjVz_Sa_xBI8pljY6PC_uMGtEaqpVRC9s6MnJyqhyCQPNS4w=s4800-w1200",
+        "author": "Poch Esp",
+        "authorUrl": "https://maps.google.com/maps/contrib/106976897355792857099"
+      },
+      "fetchedAt": "2026-10-07T15:51:44.205Z"
+    },
+    "ChIJYcYVP2I-2jERQTiBy40oT6w#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfEunF8yeef2ZdGYJJ4VuOYuPE7wbBjMYhc3835CWKLG9DsdCaAy90aKmQSCOV7BBNq5Op4Otz4Zgq74IaFhl_zDFU_M28l7J76ddT-ee_wnHoJFrfgkVqaGqWhXXg-CCIXW5pKZA=s4800-w1200",
+        "author": "MEGUMI NAKAZAWA",
+        "authorUrl": "https://maps.google.com/maps/contrib/107810333428319776700"
+      },
+      "fetchedAt": "2026-10-07T15:51:44.358Z"
+    },
+    "ChIJA8EQBfDT1IkR4rTNwgVwMGI#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmOS6-8qfVEj1GgPDke57SIVY4kM0gDXw_z6e8Srm3C3h4BC8PzLC1a5DJOmpO8Cy5vvgUnANbxJbMZ24BxE0fBwq1G1Irdtu1MWZQ0ZTpmO1LhhOZs4MR8vARn9uCDGmVM2Efz4VDJiwte4=s4800-w1200",
+        "author": "G",
+        "authorUrl": "https://maps.google.com/maps/contrib/115340605423264737194"
+      },
+      "fetchedAt": "2026-10-07T15:51:44.533Z"
+    },
+    "ChIJQ3z0g0k4K4gRke6KYtxefDQ#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfIKLFerIeEKyKjd8B-C0HZyKuzn4mgaKN9ReN9ZWPk1ZYG3kAI1p8ZIPKYbGNtg-mG_zJWz4Qx5t1bD--OwiNGKtUHgxjgLA4nh3bEYUYCs_WbSXlInp6f-Mu_-924fkFdJEnM=s4800-w1200",
+        "author": "Nasser El Chayeb",
+        "authorUrl": "https://maps.google.com/maps/contrib/114431421396080940188"
+      },
+      "fetchedAt": "2026-10-07T15:51:44.694Z"
+    },
+    "ChIJNeaMYwDS1IkRAXzXdYxlwnc#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfijtuXlX1ek--lSl6AEDmytKEA8Sj0-SyrlK0UQfskyRAobU_yRCtxpUCedWWVDCiDvSIbaW--qGk0nYNSvw3NoM7fvEwu_muRPs-Gvg8RCUD6FcmjtEH3vtpVtnnebckpQEgJ=s4800-w1200",
+        "author": "Karthik Palem",
+        "authorUrl": "https://maps.google.com/maps/contrib/112572573185682225808"
+      },
+      "fetchedAt": "2026-10-07T15:51:44.854Z"
+    },
+    "ChIJ1-mW-LhbwokR7Ryv5ha-gzc#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe32qtaCmwTAAqapFINbKKDy4EmzeTbsuICFyEWcX21VLVgpqcXtretHbOrsSDPfgHUYYWjiqSV-yqVeJIodrT4Jau2slrCa75E3mnBEBMnL-gEBWJm_AC19nJxHQ9FInjyI3Y=s4800-w720",
+        "author": "Golden Diner",
+        "authorUrl": "https://maps.google.com/maps/contrib/109083030738000254932"
+      },
+      "fetchedAt": "2026-10-07T15:51:45.045Z"
+    },
+    "ChIJeWk_ncJZwokR1QHfApa0dQo#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgkuIAArM4YKbmcLxwD8JhGxQMv_fjgWjFlSdrUEXvAVh6skuQnz-7ovHHjsGGTrarI4iGKh8GrQr72zjjNiPP9WnbB5mOwCvwNI7XR_P_QVyCJh1RfXqdrQyDqDpgtkhvZPnojg=s4800-w1200",
+        "author": "Nycha S.",
+        "authorUrl": "https://maps.google.com/maps/contrib/114345442147137339380"
+      },
+      "fetchedAt": "2026-10-07T15:51:45.280Z"
+    },
+    "ChIJaeOQ3IhZwokRgxPZEE3noAM#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeW0xa4pu4PvWFA_FFVk_EuDFcwWoyOh5o5MfpqGQJ_DUARgdxAs9XTo05jq22mRtPCiPXgoMJmzXZiKu_8A0z-HSC5F0DX_dkigtXMULDAckEb1v4JGn8bH6lW066INCtk6Yj_MA=s4800-w1200",
+        "author": "Daniel James",
+        "authorUrl": "https://maps.google.com/maps/contrib/114638086473242201885"
+      },
+      "fetchedAt": "2026-10-07T15:51:45.471Z"
+    },
+    "ChIJ485SJvw0K4gR8lOHDGJuiUw#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtxGM8ZLHFYgKGX9IUCUwIjcyERFZOH-krcp9X2llT1Q9DZWAHHIWnfT3mp8i0sTLujq45ezelqTLeg94QE39BBKtRmY2ZjlvgkBADe4cPDyfQJvkDD-hQYkfIjj3qZ1FDa_kC=s4800-w1200",
+        "author": "Minh Tú Trần",
+        "authorUrl": "https://maps.google.com/maps/contrib/114617216064907272987"
+      },
+      "fetchedAt": "2026-10-07T15:51:45.663Z"
+    },
+    "ChIJ2bhIj5qLGGARa4DOifusJKM#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeBkd-6iA_TDtmEXr4LaSZQfnb9HjzrBS1GMPAIpPb8u6gMIjVX-NlE7aXOTFeBigyOHNL0gilnivs_Rha4Dc-2ze_LPpANQvdJaAdppxFfB_N7MZoovREpYT0_7astsI8QlcqqpchA6tpW=s4800-w1200",
+        "author": "Jun H",
+        "authorUrl": "https://maps.google.com/maps/contrib/105688167143215071254"
+      },
+      "fetchedAt": "2026-10-07T15:51:45.848Z"
+    },
+    "ChIJf4gF2kQ1K4gRM4WV8Xwnw0k#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmPTWB5LlEvPSi5FgJ2b4TArLwChZMP5-G7INI4CvX6Hc-pCAXR64JYKOOsvbYfPKtVgnua5SPNWwFeCUS3U67RrLr7TIfXi_K5E29LF4N4KUdMH-g56Ygb5140SKv1-WvUEo9UkOTTWxXs=s4800-w1200",
+        "author": "Yakiniku Legend",
+        "authorUrl": "https://maps.google.com/maps/contrib/113092677602486578357"
+      },
+      "fetchedAt": "2026-10-07T15:51:46.050Z"
+    },
+    "ChIJFzsEK6-NGGAR8Q5Tlnnql24#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdzSoyqJahb1hNGKVQX2I2QCBYukKjiGtU9C-WMMqMYcSiqQwYTKSKVx8r4En9_k5EKxlqHAsh0065nAoFLIrSFu1FtounJYXnfKfFJCLX65IDZa6AxUiinDMfotZ-jr1CbC9xoEw=s4800-w1200",
+        "author": "なっつグルメ",
+        "authorUrl": "https://maps.google.com/maps/contrib/108580686310687531673"
+      },
+      "fetchedAt": "2026-10-07T15:51:46.303Z"
+    },
+    "ChIJAzOlTgDL1IkRX2AFpjQ3FYI#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyxkZhWChSTyxpHDIrmy3CtKoLuNhSfJpRsS21mqjk9JU6UKEuUUZsXu39jz2W2GRsu15f62JJeptsaBlGpm03XvOz3FKknRlD4JiNkN_aJEXKEs8T1GPWUIKgKAIrQXTFNhgGIPbR0qwe=s4800-w1200",
+        "author": "6ix Retail",
+        "authorUrl": "https://maps.google.com/maps/contrib/103069860730256628313"
+      },
+      "fetchedAt": "2026-10-07T15:51:46.516Z"
+    },
+    "ChIJWR7FdqiMGGARmAUZYfv8hjE#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6TmlOtPswwFBv4Zs7qjb8l6uHcGhZAYxbCgs-jfy-XJkjtyTEhUfFG1_k2W-8eSRxhqEY3KLxEnPZp3Cc2bT0v1-0jPt5mVemzuCgLjxTPXIvD3Flz_1Yrhdy1M7D-ng2Ndqp=s4800-w1200",
+        "author": "鳥貴族 渋谷公園通り店",
+        "authorUrl": "https://maps.google.com/maps/contrib/107435738428722296383"
+      },
+      "fetchedAt": "2026-10-07T15:51:46.755Z"
+    },
+    "ChIJC9qenCwL1kgRRV9coEIVT_Q#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdy9egZNj_zx_PnAASh3KnAR5-5TPzqysByqiDBxBFw3tgDUfGaRmuZ2Eu99wTt3gK82epv50tFJ1eKj3JrLX3uCKCesQIUdcBbLtwf7YDe_Gc7bDI3zQH92BV-j-ZglOuGgjqCFg=s4800-w1200",
+        "author": "Kopar",
+        "authorUrl": "https://maps.google.com/maps/contrib/107571579982694632310"
+      },
+      "fetchedAt": "2026-10-07T15:51:47.047Z"
+    },
+    "ChIJKZG6fNBL10gRjd9zV5zgobk#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLgvn_oY44qPHQ-z429HA5EiDum3BsktzgmXtwOoUG4vuWKv9DBEQj-eGr4L-cheIzw3uVl8I6kblXJdKbIoYBI8NSeAQ_ZUWj155UL-WKR41lw4YnVOxEX653vwAmQvmtqPbr=s4800-w1200",
+        "author": "The Soup Company",
+        "authorUrl": "https://maps.google.com/maps/contrib/112744946185920201449"
+      },
+      "fetchedAt": "2026-10-07T15:51:47.340Z"
+    },
+    "ChIJtzljU_4u0UgR7pJiueZkNY8#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmrKAQTMXdbu--YjpptS8zQIJl6R8mLeq1A6avlDE66rayXFf1or3UYolLxVljLyiSp3hcFzOpikJ1Jzv_iy8dN3Ug6MYJoBFvP_d33yX2NY79kKC2Ypjc6me6tGa6CDpl4jU_kVsUuKAM=s4800-w669",
+        "author": "Gulf Oasis",
+        "authorUrl": "https://maps.google.com/maps/contrib/117982560072763648554"
+      },
+      "fetchedAt": "2026-10-07T15:51:47.552Z"
+    },
+    "ChIJaxDNiYeQdkcRPnw97p9dvt8#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf6M3Y0xpxMCWhYMDgNIlVIUlLzE4-qJ1Lom6IHzOCW4GeWDKsoOoFtkmPuNPEJsjHQcOmIF0Z5Ami1ste83XfY4aBEtmFDkcSh39LfWQ2HOJr9zhpNPWy2EosrcLJadM5_H3Tt90UHW1M=s4800-w1200",
+        "author": "Homin Byun",
+        "authorUrl": "https://maps.google.com/maps/contrib/103415328770230279455"
+      },
+      "fetchedAt": "2026-10-07T15:51:47.707Z"
+    },
+    "ChIJF-jEQ4iRdkcRVgvzGuoG-UQ#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfL9BGW0GV8mfmabLf94__Op8DvJgsRCo2JEvhzZw4PWO6rcBSLcZvR_69Mk1KkLx3zG6LKvHgBrSTbhXErtZ3uYkgxLH3zB0scJBzGwBb4tbSovJFOnytyyHcv4V-JPzRIjvLAeQ=s4800-w1200",
+        "author": "thomas steiner",
+        "authorUrl": "https://maps.google.com/maps/contrib/114655060698990067287"
+      },
+      "fetchedAt": "2026-10-07T15:51:47.923Z"
+    },
+    "ChIJvxs0WJszGQ0RRhSjFw18v98#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmPkUeNlNTcoRLy2B-bFrzBeSQb4q68Z2SNTRQpF2AKVCsP3g2QZMtMk0yKavw_DLhQVFtl5FrDZ3nIdv8_QeG9GH4y74PwdTt6KsP6zNRs3QqOZBpag_zabPEtz538uuqZasRMiVQ=s4800-w1200",
+        "author": "Joaquim Teixeira",
+        "authorUrl": "https://maps.google.com/maps/contrib/104501590343110063762"
+      },
+      "fetchedAt": "2026-10-07T15:51:48.148Z"
+    },
+    "ChIJo-HlNaA0GQ0Rb5V7OppVuR0#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqJBU4sKMdY0ViQZk48krdJeWunW-HAsPyxeNg_aOba4_d8tyLPI4qua3IKDUukmvf24iZ1KwgObWag30-dkZ4gO2wk4ihMUy_pu5-jGx1BQkWTxjAzF5rJUsnEx0hQrjsIUoQ=s4800-w1200",
+        "author": "am nasko",
+        "authorUrl": "https://maps.google.com/maps/contrib/114286760948044035366"
+      },
+      "fetchedAt": "2026-10-07T15:51:48.383Z"
+    },
+    "ChIJ-YyF2KYzGQ0RU6LaxPHupPw#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe_MY5n3xwOEG1ggVj6qQMfzxEP5oFy5QKZzZ8_GuxABQmC6AgD7rSe-nbU-wOv2K1hJ-qMa-KhWdH6eqgr0UWIvTF9i30dbGGlE0cOIS_T96lbnI8zyvvIDXmdsQqYf08MkciF=s4800-w1200",
+        "author": "Oh Pereira - Antiga Casa de Pasto Manuel Pereira Gomes",
+        "authorUrl": "https://maps.google.com/maps/contrib/110796294238591397902"
+      },
+      "fetchedAt": "2026-10-07T15:51:48.568Z"
+    },
+    "ChIJH7RmpAZln48RDSdPZRjVzpk#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc6eFhvP_l0CvDDLbPhG9BiffP9cWEyU6scXMb3xfZRoV06LZqQvwSF62GwqWStFArvOB_gHNwENbTyLQvZa093wM_zU26-jHa7n5SkHA-uezeUZg36h57xZl3qXWjiBYMvrFtk=s4800-w1200",
+        "author": "Ryan Godfrey",
+        "authorUrl": "https://maps.google.com/maps/contrib/112679224751427014624"
+      },
+      "fetchedAt": "2026-10-07T15:51:48.756Z"
+    },
+    "ChIJq0HUUq6ipBIRWM6qGqALmok#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdGMqhcT4DQsj_21UpkC-3PvX_sIU4dPgyhDYWuglsSNfkKjfm1N_c1hwmLQ3vffC7XOF0JqvToC1mH5fhlX1IMTkjCwduOkmsyR612CAFT6G6le69zNr4u5upyjUvE841sij-3-Q=s4800-w1200",
+        "author": "frederic xixons",
+        "authorUrl": "https://maps.google.com/maps/contrib/101043182050163715021"
+      },
+      "fetchedAt": "2026-10-07T15:51:48.995Z"
+    },
+    "ChIJ-eWM2hxln48Rj2kcFpmEycc#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcwIG5WSVVQXy2f7VeircKM3wycaSrtyamwMfckyf5C4q4waUqxALpaLvJQS-jHdenc-ag6B5XiuFvECL5LfRSQHx8c0HXZPFf6kgmiwpCnRM9OZao01SjORf-VhAlV_xOPQUXe=s4800-w1200",
+        "author": "jafeth arroyo mena",
+        "authorUrl": "https://maps.google.com/maps/contrib/118328463931395180022"
+      },
+      "fetchedAt": "2026-10-07T15:51:49.465Z"
+    },
+    "ChIJ5xOF6fGipBIREVqhYxW5kKY#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmNx2Owbm5GbPvt_y9uQSX0TSwYnYd6Yxk4lLyMonBk3HkzBlayAk1DNmUM-cF3wvFjwmy0crFuDdSFZgJKYMZq6d_ydYVrdFhkrNiEftqTb-EyqkZ69O_UAhMu0aKmZBA84AeGyzg=s4800-w1200",
+        "author": "Bobby's Free",
+        "authorUrl": "https://maps.google.com/maps/contrib/110006257603028486029"
+      },
+      "fetchedAt": "2026-10-07T15:51:49.977Z"
+    },
+    "ChIJP7HYym1ln48Rcm2dUrUKtEQ#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmMFfJl05786u6qOhh2Udcw6v0WzjtkpmK6tooEztJcTtRJW6XnXrKGNviBkldaQu7b9_PG6be5ggpXLU2ArFBYHN-kANLzpi2bHFmZEVR9lkraVFyjWBDmY_WuQYmO7cPpjkLP6=s4800-w1200",
+        "author": "Yannick RICHARD",
+        "authorUrl": "https://maps.google.com/maps/contrib/114720910528429375108"
+      },
+      "fetchedAt": "2026-10-07T15:51:50.467Z"
+    },
+    "ChIJMU59xHGipBIRkdwlcgUWAYY#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmPoshFMQpBD9F7t4hhM3573LYxJVLtlaXLuN6FPVUmZu74SIzezyK8wTBsz8LVf5aT1tOndXEoaYNLx4Kq5r51hLtHoYv8uTzoXKbwXDtCjvZip6RJYrWW4FP8TERHKtK5N1h0=s4800-w1200",
+        "author": "Dimitra Kotroni",
+        "authorUrl": "https://maps.google.com/maps/contrib/113362429491072880737"
+      },
+      "fetchedAt": "2026-10-07T15:51:50.675Z"
+    },
+    "ChIJs6Elz500K4gRT1jWAsHIfGE#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLemDaWbGbbGXjqyLX8_pQIIcenM78FrgGFFK_okUyXzPgWTye1Gn-rwLJ19baSxDWOFGi_aX5SJtQVuWwj6HrkObggBWpicX4q-oj0EhGToTvUgNAVdEo4kvAAofkAs2Wvy66cLBSFjRyUr=s4800-w1200",
+        "author": "Boots",
+        "authorUrl": "https://maps.google.com/maps/contrib/101252041256657825973"
+      },
+      "fetchedAt": "2026-10-07T15:51:51.006Z"
+    },
+    "ChIJGXyiWUDN1IkR50ZWv092iYU#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmPLmhoq7B9-wAM6lsQfFjgPnkjcOOmEaFau7h8LMYbIn7PI9u9SjykENjoCMVOQvtjvmxKzbi55yOBYJhxf8v68l2G0KSktzLSkW3ofId-quGGcT76W6CojrHO8due7l8IR_ZtKZLH0494=s4800-w1080",
+        "author": "Josie Smolka",
+        "authorUrl": "https://maps.google.com/maps/contrib/103886193297378953135"
+      },
+      "fetchedAt": "2026-10-07T15:51:51.353Z"
+    },
+    "ChIJA0h1-Lk0K4gRzJsK5QP2H6g#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3L9WATQQS4tplJNgOdmdceqUWqd5W_yIkmSk1KGT5XQZTq2BDEtGSp54567klIv5nGC6avhP24bfGM_u1U3RpHJHcNSq7FbBFRyJlw6j5h_aycCR8vXanwBAMBQzjVXaYW5yB=s4800-w1200",
+        "author": "Clement Lo",
+        "authorUrl": "https://maps.google.com/maps/contrib/109369213102077097614"
+      },
+      "fetchedAt": "2026-10-07T15:51:52.027Z"
+    },
+    "ChIJUyT9Fx30K4gRtvojo_opXWg#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/ACvplmPTzNUayDlI6j1rHboyfhcXJuqVFBZLW7Z_5k1b4ufcdLHm4cVNpME0w48L6kp-7PoFr2x8j6znio11rvyozpopiTq5kw1HLl3UBsNi09Lqjq7U5Av7NOxixaUkf-drlt0i4pYz=s4800-w1200",
+        "author": "Kitchener-Waterloo Art Gallery",
+        "authorUrl": "https://maps.google.com/maps/contrib/110708712912621468808"
+      },
+      "fetchedAt": "2026-10-07T15:51:52.227Z"
+    },
+    "ChIJER45KPfzK4gRbi9W34BLGNs#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdXQCBiej_4s9IZWpkZMGO-AubL9cJJ-PUpMIZSkHNm0ki5Jwan5T9R03PZPcdsemutXUV_Eh9EX00u8jaoUFEdGMkqi-bpQ5ZACDodXQXhuQYlfgxakzPppgJ1qm5izJ-0B2OA7A=s4800-w1200",
+        "author": "Coffee Brick Canada Inc.",
+        "authorUrl": "https://maps.google.com/maps/contrib/110753266295875187985"
+      },
+      "fetchedAt": "2026-10-07T15:51:52.401Z"
+    },
+    "ChIJy3RstJ30K4gRZpzd_W37xP4#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfN4e_1XU0OJ69BADd3GBd4gkrgBSX76Ny059JZf2Fr4VM8OWxTNeq_tC31yHsMx7eQZQ_kbi3RYJ2WcjF00sXJcj4o6NhDG1n7zSHnSkk9jXcEqkyPiXV3Xq9ZE5xDoWL2mEwH=s4800-w1200",
+        "author": "Joanne Lenos",
+        "authorUrl": "https://maps.google.com/maps/contrib/118270250834276586955"
+      },
+      "fetchedAt": "2026-10-07T15:51:52.556Z"
+    },
+    "ChIJ3Z3mk-AIAWARjvGotlykUek#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfk7clgrinlid_Uk-iiUj9BZIsZZ5AxAiWR6eXvI6wCOr1g54Z9YQy-4zo-V-kYqxl5kYNgnnXhkYj2EMP7OD16uScx3A8lgLZq5SrqHEQJ9XJN6eYE3itnqXdQW1sP6qzDIUu868DMYXXE=s4800-w1200",
+        "author": "無鄰菴 murinanｰgarden",
+        "authorUrl": "https://maps.google.com/maps/contrib/111852907376164864119"
+      },
+      "fetchedAt": "2026-10-07T15:51:52.705Z"
+    },
+    "ChIJEbE262uoAWAR6Ls9QAVuqe0#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7V4RHy65Fp4Kt2t8fT60w-us-cyBeqzgfMCUs0f2XpW_ETe6xIuIHekvuTD6EuIFMWsq1tLzXBz5sFyrfdTAPp1LOhR1q07y8iXNtNqKIHp9nhkZpumL7J2jRZcmSwYNstIDt=s4800-w1200",
+        "author": "山脇孝之",
+        "authorUrl": "https://maps.google.com/maps/contrib/102199167995442852539"
+      },
+      "fetchedAt": "2026-10-07T15:51:52.879Z"
+    },
+    "ChIJb8ozQ6kJAWARcjQCEqTST-M#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfYKiWGvGMqN-YWYAgVnrXzkHvRIKnuHYSS0sMCqpc653Yl5a3ORGJU30GORFDyJFPj8KRep7fznmjSOJSZnQcyElN94bdG-CvcfUu3Wm-YbBc-wI-ziLfRw65gFe5r9uSk2mJQWIwG5WEH=s4800-w1200",
+        "author": "圓光寺",
+        "authorUrl": "https://maps.google.com/maps/contrib/101199095823379177885"
+      },
+      "fetchedAt": "2026-10-07T15:51:53.034Z"
+    },
+    "ChIJL1aj31b0GGAR5izpt9nJOS4#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdyB6KObzB9OhLx4S-LI17zFYhxLHvqztQavPdEL4geB34xJrUoKWlBfeXlBL4D1sNsu8TFETMUuPJZv_jYJ5SZLLMJdrKX8vwrtrUbbDRthksKmAiv_xvp_L_DK1cyAbFY42rVsQ=s4800-w1200",
+        "author": "カメレオンマン",
+        "authorUrl": "https://maps.google.com/maps/contrib/103007638873893186244"
+      },
+      "fetchedAt": "2026-10-07T15:51:53.287Z"
+    },
+    "ChIJhY5E_7cYAWARePUhPo0oiAk#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfA5stfHiJH4YAWcYR3EK7b5pzKHasSe4xbbxkzlQR3uuZujIlNt0mJbnr_sn0_oF77fNTAJp0JxFzGz3JYKlkM7DwfTUQYJBkXOz5jRUPqDwD5SOJYt2jUvNAZLMTvXR35EIgw=s4800-w1080",
+        "author": "凱帝",
+        "authorUrl": "https://maps.google.com/maps/contrib/113027564981597196884"
+      },
+      "fetchedAt": "2026-10-07T15:51:53.454Z"
+    },
+    "ChIJPYwFnNGNGGARYEeXwiYQPe8#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfWEz2diN84lGPI05dCpZeoCOCA_F0HiAvVB9tVFG-tR2oIuXFnSc9D2ajl8IiFi3y0fpoHbtBKzix86DGlDnFYn7fX4iVr7Ogu3Dv86nEWn7wL75BwfrjCSZ6RLyvr2AOXVKGZ=s4800-w1080",
+        "author": "SPCA663 Little B",
+        "authorUrl": "https://maps.google.com/maps/contrib/117377762110860852590"
+      },
+      "fetchedAt": "2026-10-07T15:51:53.647Z"
+    },
+    "ChIJWycYzY35AGAR6rz9QCA7shE#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7Fy85lhc0RtSa00CCiwHd1I-wx9Tde1WzxPoESk0kt_5wqU42oC4h7e1UKhGuxUn1L3bopsjWRuwPsVyGHgfdIIZZliLU_wBA7REizgYRSLgKKdTBFCpNNgdvRna8fKK1vagCxA=s4800-w1200",
+        "author": "KC Pan",
+        "authorUrl": "https://maps.google.com/maps/contrib/117513862597655291316"
+      },
+      "fetchedAt": "2026-10-07T15:51:53.812Z"
+    },
+    "ChIJ_SvuyD-JGGARUQZhJInwMIc#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLdPBcQ3y8UsTusoXHUKv2UGXaGz8f4l9fp689neqBJiAkgrPbc3CTbvtOW5-cX_u-V8sBvBNiLV4xwfujVDaXu0eddSEoFTywht2woihR2diwRW8oj6timPF3BilOUGG6xa9N-ZXg=s4800-w1200",
+        "author": "Remy Rachet",
+        "authorUrl": "https://maps.google.com/maps/contrib/115701455565137057944"
+      },
+      "fetchedAt": "2026-10-07T15:51:54.065Z"
+    },
+    "ChIJiQqZlSbcAGARVmh4jAhY_E4#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeW3Lf0Hv5Vw0XO2IrNdMXBRpkmqgqhDkgL6sPDTVTQC3bNLqkOoZCfrJxvsVEY19QpX5H6RFBCRd_cvj0gqhMXniH0bxtll9ytIxLLwfyyZe6bxYPe-cjUbeqzkKqnr0f_OA=s4800-w1200",
+        "author": "大阪市立長居植物園",
+        "authorUrl": "https://maps.google.com/maps/contrib/112934561906206331616"
+      },
+      "fetchedAt": "2026-10-07T15:51:54.240Z"
+    },
+    "ChIJDxhIALUvQg0RE5k2R2VbvTM#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeLNlY4SX_Wlos0pubE30dCAh1nOAIxMFPmbpKBwoTFNpXsr5x6r86HTEAagREEbxA63nspAo9__Osq1bP9eTNb976zyILnhvgYd6GHcFxIz0vI-1gS7I-Nif3rLUp2Vxa5MEmOUw=s4800-w1200",
+        "author": "Vanessa RG",
+        "authorUrl": "https://maps.google.com/maps/contrib/102191189903413583528"
+      },
+      "fetchedAt": "2026-10-07T15:51:54.429Z"
+    },
+    "ChIJIYRe9ucf1YkR0wCV-CwyhsU#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLfp4X3y5vhIOVTxftZY8tTuf6K2kZTR_daTd8KE1dVQSHjFNbIi8sErCQ4i9UAipWIqCkbyeGQ_kkP8CdOG2sRsa_aF9JL3eoMFCGN4TmGTKhqXkxnXvnz83MhQBTNtGu9REh-wMw=s4800-w1200",
+        "author": "Belle Vie Cafe & Bakery",
+        "authorUrl": "https://maps.google.com/maps/contrib/102163540515535007952"
+      },
+      "fetchedAt": "2026-10-07T15:51:54.600Z"
+    },
+    "ChIJhfUFmUkd1YkRxFsVFHRSYSs#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLeHfgSmYjXni0eIAHca0rZIQm8exceh2mANvBY3LKrSd9Zh9oG53hkT6ncJDQIhK4F9qjVtx4UcyXJmtM9cZnU-wkhwT8GBtecNlg2X0EX8XbEOoiqKSKO-8TqsettwjqGAgrsphHFqfcJV=s4800-w1200",
+        "author": "Portobello Road",
+        "authorUrl": "https://maps.google.com/maps/contrib/109057941219771214832"
+      },
+      "fetchedAt": "2026-10-07T15:51:54.824Z"
+    },
+    "ChIJ__8DpMQ0K4gRPNzVwLvVVkA#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLe-krj3utYrILxbB76W0P7SIWuWCT5dwqk-RjNLwuEP7KOZTh0N7lqKNor3RUKWTWqeB3vvNKzAHW5uwq9igUI0w-su2J2SOBq0aV0UNrQLyBHOoJFqzZryojWFgvK7Agt9mEth=s4800-w1000",
+        "author": "ICHA TEA",
+        "authorUrl": "https://maps.google.com/maps/contrib/105930902152953671152"
+      },
+      "fetchedAt": "2026-10-07T15:51:55.022Z"
+    },
+    "ChIJF8HHA2YEdkgRVb0f71B1D8s#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcFWPxefZuwHEN8HlJ2PgTxzaFVm__d_HaZCj6je85XuwNJuIZqGWkKScKGZ4_ySuFldGf_exk8RKc_QD8fPXu9HUBBwegy55cF2gt5uzlkSeUHEdXbjTPZg70FpL78csOZ0GArew=s4800-w1200",
+        "author": "Anthony Payne",
+        "authorUrl": "https://maps.google.com/maps/contrib/115122897326460097886"
+      },
+      "fetchedAt": "2026-10-07T15:51:55.189Z"
+    },
+    "ChIJgUR35uUcdkgRkigWi7YDIO4#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLelXyGyycz761Cf8rha2Zy0gQ2sUxdNBr0-4CM9HvNaidYQ3rdNbvDtkCyx3zivVv5wq_SQaEvSaRPZIk2aoqlDBOQvKOqZ5KnuVjyYOPzUCh7eLQPTezQ_B8ED6abhHxzltAXT=s4800-w1200",
+        "author": "Jerzy",
+        "authorUrl": "https://maps.google.com/maps/contrib/113302276361304413233"
+      },
+      "fetchedAt": "2026-10-07T15:51:55.338Z"
+    },
+    "ChIJU3SYeDcJdkgR7DU-PrIhP0w#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLephZRpuV_Gxnd2NbUly2nnu0xe5N-7jBn9wrdAYQPepvVtDLQHE9lXER4MIP8K242m2bFScV9DEpVtglG8N0JTft7ZAv8BQbNd5jIXqGgk33weLiP48tYB0FGAq6iuE16zs1Y=s4800-w1200",
+        "author": "Christie Cloete",
+        "authorUrl": "https://maps.google.com/maps/contrib/100645706573562917989"
+      },
+      "fetchedAt": "2026-10-07T15:51:55.504Z"
+    },
+    "ChIJ1yPe87tVKogRdXO0KfJa2jo#0": {
+      "photo": {
+        "url": "https://lh3.googleusercontent.com/grass-cs/AABkmLc9MaBgDPz3FOkuqInX2cPtWw_cvx0yka95uy6AqAHseTWc-6XmVBxYtM6_XiwlS86vhUp3cdEX0W0ieIbRMPxQP_X0d0aN3huICXORGhnLQu4dLi2jNfO_6_zU6xBDevT2no45=s4800-w1200",
+        "author": "Humara",
+        "authorUrl": "https://maps.google.com/maps/contrib/103631525151006696549"
+      },
+      "fetchedAt": "2026-10-07T15:51:55.762Z"
+    }
+  }
+}

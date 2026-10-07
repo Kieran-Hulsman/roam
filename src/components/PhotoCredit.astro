@@ -1,0 +1,18 @@
+---
+// Google requires the photographer to be credited wherever a Places photo is shown.
+import type { Photo } from '../lib/data';
+
+interface Props {
+  photo: Photo;
+  link?: boolean;
+}
+const { photo, link = true } = Astro.props;
+---
+
+{
+  photo.author && (
+    <span class="photo-credit">
+      Photo: {link && photo.authorUrl ? <a href={photo.authorUrl} target="_blank" rel="noopener">{photo.author}</a> : photo.author} · Google
+    </span>
+  )
+}
